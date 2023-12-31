@@ -46,7 +46,7 @@ Like the course, the content directory is divided into four stand-alone **module
 3. Editing deep-dive
 4. Writing in English (as a non-native speaker)
 
-Each module is made up of **topics**. Topics in turn are made up of **nodes** - individual .adoc files, each covering one aspec of a particular topic. All content on specific area, such as passive-voice sentences, is in its own node.
+Each module is made up of **topics**. Topics in turn are made up of **nodes** - individual .adoc files, each covering one aspect of a particular topic. All content on specific area, such as passive-voice sentences, is in its own node.
 
 Content in nodes uses tags (`html` and `slide`) to control what will parts appear in html pages, slides, or both. The tagging can be quite intricate to avoid duplicating text - if you start messing with ctags, check your work!
 
