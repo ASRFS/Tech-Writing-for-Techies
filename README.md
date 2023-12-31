@@ -37,7 +37,7 @@ TWFT
 |--- scripts            <- scripts for generating html pages and slides
 ```
 
-### The content directory#
+### The content directory
 
 Like the course, the content directory is divided into four stand-alone **modules**:
 
