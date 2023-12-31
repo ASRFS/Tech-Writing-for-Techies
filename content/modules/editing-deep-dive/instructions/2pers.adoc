@@ -1,0 +1,49 @@
+= Use "you" forms
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+// tag::html[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a|. [.red]#*We*# put the ghost trap into the containment unit. +
+. [.red]#*We*# enter [.red]#*our*# personal code on the keypad to release the ghost into the grid.
+|
+|===
+====
+// end::html[]
+
+// ---- SLIDE 2 ----
+=== Use "you" forms
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+Writers can be tempted to use _we_ forms in instructions in order to sound friendlier. Unfortunately, this comes across as talking down to your audience. It sounds a little like you're a kindergarten teacher telling a bunch of kids, "Now let's clean up the playroom".
+
+Instead, use  _you_ forms. This includes both using simple commands (which are implicit _you_ forms) and specifically saying _you_ and _yours_ when needed.
+
+It's shorter and gives the reader some dignity.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+[cols="2",frame=none,grid=none]
+|===
+a|. [.red]#*We*# put the ghost trap into the containment unit. +
+. [.red]#*We*# enter [.red]#*our*# personal code on the keypad to release the ghost into the grid.
+a|. [.blue]#*Put*# the ghost trap into the containment unit.
+. [.blue]#*Enter your*# personal code on the keypad to release the ghost into the grid.
+|===
+====
+
+// end::slide[]
+
+'''
+
+// end::html[]

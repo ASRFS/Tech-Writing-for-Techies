@@ -1,0 +1,30 @@
+= Definite: _the_
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+[.ornamental]
+image::thisthat.png['Images of Julius Caesar and Choleric the Goth from the Asterix series of comics',,400,align="center"]
+// end::slide[]
+
+Generally speaking, languages turned words for _this_ and _that_ into their versions of the definite article [.blue]#*the*#:
+
+* Latin-based languages adapted _that/those_ (_ille, illa, illum_)
+* Descendants of proto-Germanic used _this/these_ (_se, seo, þæt_)
+
+_This/these_ and _that/those_ are called _demonstratives_.
+Demonstratives tell the audience three things:
+
+* That the speaker is referring to a *specific* thing (or several specific things).
+* What *quantitiy* the speaker is talking about: one thing or more than one.
+* What the *location* of the specific thing(s) is relative to the speaker (near or far).
+
+Turning a demonstrative into [.blue]#*the*# strips away information about *location* and (in English) *quantity*. All that's left is that there's something (or things) *specific*, something the speaker can point to, at least metaphorically.
+
+'''
+// end::html[]

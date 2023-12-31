@@ -1,0 +1,45 @@
+= Why are you using this term?
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+After the Burn, the Federation had only twelve [.red]#*warp-capable _Intrepid_, _Eisenberg_ and _Armstrong_-class ships*#.
+====
+
+// ---- SLIDE 2 ----
+=== Why are you using this term?
+// tag::html[]
+====
+After the Burn, the Federation had only twelve [.red]#*warp-capable _Intrepid_, _Eisenberg_ and _Armstrong_-class ships*#.
+====
+// end::slide[]
+// ---- EXPLANATION ----
+
+*THE PROBLEM*
+
+Every time you use a technical term, you're imposing cognitive load on any readers who don't already know it. Ask yourself if it's worth it.
+
+Technical terms can become a kind of geek gang sign, used to show off the writer's expertise. You may feel that it builds reader trust in you. But a better way to show that expertise is to explain a difficult thing clearly.
+
+*THE SOLUTION*
+
+Only use rare and specific technical terms when they _make a useful distinction_ that more common words don't. If you must use them:
+
+. Introduce it properly (see <<_introducing_new_terms>>).
+. Write it down on your word list.
+. Apply it throughout the document.
+. If you have a glossary, add the word to it.
+
+// tag::slide[]
+====
+After the Burn, the Federation had only twelve [.blue]#*starships*#.
+====
+// end::slide[]
+
+NOTE: An example is the definition of the term *thesaurus* in the section on <<_one_word_one_meaning>>. THe footnote defines it as _A website where you can enter a word and find other words that mean the same thing_. There's a techncial term for _a word that means the same thing as another word_. It's a *synonym*. But using that word would have meant teaching it to readers, although it's never used again in the course. That's wasted energy. Cognitive load.
+
+'''
+
+// end::html[]

@@ -1,0 +1,40 @@
+= Clarify references
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+The tow ship _Nostromo_ encountered a hostile alien on the moon LV-426. [.red]#It# was later destroyed.
+====
+
+// ---- SLIDE 2 ----
+=== Clarify references
+// tag::html[]
+====
+The tow ship _Nostromo_ encountered a hostile alien on the moon LV-426. [.red]#*It*# was later destroyed.
+====
+// end::slide[]
+
+// ---- EXPLANATION ----
+*THE PROBLEM*
+
+What does _it_ refer to here? It could be:
+
+* The tow ship _Nostromo_ (*spoiler*: the _Nostromo_ is destroyed in the film.)
+* The hostile alien (*spoiler*: the alien is destroyed by the end of the film.)
+* The moon LV-426 (*spoiler*: the moon is _not_ destroyed, which is why there's a sequel.)
+
+*THE SOLUTION*
+
+If it's not absolutely clear what words like _it_, _this_, or _that_ refer to, use part or all of the previous term. It's better to be a little repetitive and completely clear than to leave your readers in doubt.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+The tow ship _Nostromo_ encountered a hostile alien on the moon LV-426. [.blue]#*The ship*# was later destroyed.
+====
+// end::slide[]
+
+'''
+// end::html[]

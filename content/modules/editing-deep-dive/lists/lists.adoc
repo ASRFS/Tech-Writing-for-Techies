@@ -1,0 +1,47 @@
+= If it's a list, make it a list
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+Replicants are the ideal workforce for off-planet installations because they are [.red]#*inhumanly strong, guaranteed disease-resistant, well-trained in a variety of technologies, and too short-lived to require pensions*#.
+====
+
+// ---- SLIDE 2 ----
+=== If it's a list, make it a list
+
+// tag::html[]
+
+// ---- EXPLANATION ----
+// end::slide[]
+
+Part of the reader's cognitive load is figuring out what the writer is doing in any given sentence. _Are they stating an opinion? Making a comparison? Describing something? How much will I learn from this sentence?_
+
+// ---- MORE SLIDE 2 ----
+// tag::slide[]
+====
+Replicants are the ideal workforce for off-planet installations because they are [.red]#*inhumanly strong, guaranteed disease-resistant, well-trained in a variety of technologies, and too short-lived to require pensions*#.
+====
+// end::slide[]
+// ---- INFORMATION ----
+
+But readers don't need to figure out lists because the format carries meaning. They know how they work. You can identify a list and recognize its components even in a language you can't read.
+
+So if a long sentence is really a list, your reader will experience less cognitive load if you make it look like one.
+
+// tag::slide[]
+====
+Replicants are the ideal workforce for off-planet installations because they are:
+
+* [.blue]#*Inhumanly strong*#
+* [.blue]#*Guaranteed disease-resistant*#
+* [.blue]#*Well-trained in a variety of technologies*#
+* [.blue]#*Too short-lived to require pensions*#
+====
+// end::slide[]
+
+NOTE: By definition, a list must have more than one item. Sentences with three or more items should default to being lists. When there are two items, choose whichever format is clearest to the reader. And Rule Zero applies: do what helps your reader first, follow the rules second.
+
+'''
+// end::html[]

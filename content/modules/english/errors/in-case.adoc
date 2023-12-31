@@ -1,0 +1,92 @@
+= _If_ you want to use _in case_
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+image::suitcase.png["Leather suitcase",600,align="center"]
+
+// ---- SLIDE 2 ----
+=== If you want to use _in case_
+==== &nbsp;
+
+// ---- EXPLANATION  2 ----
+// tag::html[]
+
+====
+[.red]#*In case*# you want to go back in time 13 seconds, use the Omega-13 device. +
+[.red]#*In case of*# Mak'tar crewmembers, the standard bed is replaced with retractable spikes.
+====
+
+// end::html[]
+
+// ---- SLIDE 2 ----
+=== If you want to use _in case_
+==== Use _if_
+
+====
+[.red]#*In case*# you want to go back in time 13 seconds, use the Omega-13 device. +
+&nbsp;
+====
+
+// ---- SLIDE 3 ----
+=== If you want to use _in case_
+==== Use _if_
+// end::slide[]
+
+// ---- EXPLANATION  3 ----
+// tag::html[]
+
+[.ornamental]
+image::suitcase.png["Leather suitcase",600,align="center"]
+
+English doesn't actually use _in case_ or _in case of_ very often. They mostly appear in set expressions, usually for bad circumstances (*_in case of fire,_* _break glass_). There are better choices:
+
+* If you're using [.red]#*in case*#, ask yourself if you really mean [.blue]#*if*#:
+
+// tag::slide[]
+
+====
+[.red]#*In case*# you want to go back in time 13 seconds, use the Omega-13 device. +
+[.blue]#*If*# you want to go back in time 13 seconds, use the Omega-13 device.
+====
+
+// end::slide[]
+// ---- EXPLANATION  4 ----
+
+* If you're using [.red]#*in case of*#, ask yourself if you really mean [.blue]#*for*#:
+
+// end::html[]
+
+// ---- SLIDE 4 ----
+// tag::slide[]
+=== If you want to use _in case of_
+==== Use _for_
+====
+[.red]#*In case of*# Mak'tar crewmembers, the standard bed is replaced with retractable spikes. +
+&nbsp;
+====
+
+// ---- SLIDE 5 ----
+=== If you want to use _in case of_
+==== Use _for_
+
+// ---- EXPLANATION  5 ----
+// tag::html[]
+
+====
+[.red]#*In case of*# Mak'tar crewmembers, the standard bed is replaced with retractable spikes. +
+[.blue]#*For*# Mak'tar crewmembers, the standard bed is replaced with retractable spikes.
+====
+
+// end::slide[]
+
+// ---- EXPLANATION  6 ----
+[NOTE]
+====
+You *can* say _in the case that_ or _in the case of_, which mean the same as _if_ and _for_. But it's easy to get it wrong. Besides, _if_ and _for_ are shorter.
+====
+
+'''
+// end::html[]

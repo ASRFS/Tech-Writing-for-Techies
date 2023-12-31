@@ -1,0 +1,32 @@
+= Exceptions
+:fragment:
+:imagesdir: ../images
+
+
+// ---- SLIDE ----
+// tag::slide[]
+
+// full flowchart image
+image::exceptions-v.png["Flowchart, highlighting 'MyTh? PLANS?'.",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+// cropped flowchart image
+[.ornamental]
+image::exceptions-v-sm.png["Flowchart, highlighting 'MyTh? PLANS?'.",300,align="center"]
+
+Sadly, following a flowchart won't always save you from the weirdness of English articles. There are exceptions to the rules.^1^ These exceptions fall into two basic categories:
+
+* Extra words before the noun that take the place of [.blue]#*the*#, [.blue]#*a*#, and [.blue]#*an*#. &larr; *MyTh*
+* Classes of noun that just don't take articles at all. &larr; *PLANS*
+
+Time to discuss them.
+
+[.small]#1. There are also exceptions to the exceptions. And so on.#
+
+'''
+
+// end::html[]

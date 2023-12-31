@@ -1,0 +1,23 @@
+= Free writing
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+[.ornamental]
+image::cattype.gif["Animated gif of a cat typing on a laptop keyboard.",400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Sometimes structure doesn't come before any of the content. Sometimes it's the last thing you create. This is free writing.
+
+In the fiction-writing world, free writing is known as _pantsing_ (writing by the seat of your pants). To use this technique, you just...write. Don't worry about structure or order at this point. Rearrange things later. This is the 21st century; we have cut and paste.
+
+Free writing is useful when you have something you absolutely do not want to forget. Sometimes that one thing can block everything else out. So write it down! Then a few more thoughts will probably bubble to the surface. Write them down too. Follow your lines of thought wherever they lead.
+
+Once you have the content written down, move it around until it makes sense before you start editing.
+
+'''
+
+// end::html[]

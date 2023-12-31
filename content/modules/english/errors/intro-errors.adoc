@@ -1,0 +1,15 @@
+= Common English errors
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+[.ornamental]
+image::shakespeare-wrong.png["Line drawing of Shakespeare with his face upside down in his head."]
+
+Technical writing in English is extra-hard if English isn't your first language. Like any language, it has its own idioms, rules, and quirks. You'll need experience and practice to get used to all of them.
+
+But there are some errors that are both common and easy to fix. This section addresses them. These tricks aren't a substitute for experience, but they'll give you some quick wins in the quest to become a better writer.
+
+'''
+// end::html[]

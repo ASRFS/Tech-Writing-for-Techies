@@ -1,0 +1,36 @@
+= Roles and goals
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|image::van-Gogh-glass.png["Painting of a glass on a table, originally by Vincent Van Gogh",75%,,align="right"]
+a|
+// tag::html[]
+[quote, Kurt Vonnegut]
+____
+Every character should want something, even if it is only a glass of water.
+____
+
+// end::html[]
+|===
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+Think about your audience in terms of their information needs. What they need depends on why they're reading your document. What will they do with the information you'll give them?
+
+For technical writing, you generally have audiences with two different professional roles. People in the different roles have different goals, and thus different information needs:
+
+Business users:: People who want to use the documentation to make a _decision_. Buy this software or not? Use this functionality in the product design or not?
+Engineers:: People who want to use the documentation to make _something_. An app, a component, a feature.
+
+Readers with different roles also tend to have different backgrounds. Business users, even ones with an engineering background, read differently than engineers do. They make different assumptions and find different things important.
+
+'''
+
+// end::html[]

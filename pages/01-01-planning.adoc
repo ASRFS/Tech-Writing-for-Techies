@@ -1,0 +1,79 @@
+= 01.01 Planning
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous: link:00-01-key-concepts.html[Key concepts]
+:parent: link:00-00-course-overview.html[Course overview]
+:next: link:01-02-writing.html[Writing]
+endif::[]
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+'''
+endif::[]
+
+// First slide image, writing process introduction
+ifeval::["{ctag}" == "slide"]
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== PLANNING
+image::calipers.png["Calipers",,400,align="center"]
+
+endif::[]
+
+== The writing process
+include::../content/modules/writing-process/planning/writing-steps.adoc[tag={ctag}]
+
+== Planning for your _audience_
+include::../content/modules/writing-process/planning/audience.adoc[tag={ctag}]
+
+=== Roles and goals
+include::../content/modules/writing-process/planning/roles-goals.adoc[tag={ctag}]
+
+=== Knowledge
+include::../content/modules/writing-process/planning/knowledge.adoc[tag={ctag}]
+
+=== Mental models
+include::../content/modules/writing-process/planning/mental-models.adoc[tag={ctag}]
+
+== Planning your _document_
+include::../content/modules/writing-process/planning/planning-doc.adoc[tag={ctag}]
+
+=== Purpose
+include::../content/modules/writing-process/planning/purpose.adoc[tag={ctag}]
+
+=== Scope
+include::../content/modules/writing-process/planning/scope.adoc[tag={ctag}]
+
+=== Vertical scope
+include::../content/modules/writing-process/planning/vscope.adoc[tag={ctag}]
+
+=== Horizontal scope
+include::../content/modules/writing-process/planning/hscope.adoc[tag={ctag}]
+
+=== Document structure
+include::../content/modules/writing-process/planning/templates.adoc[tag={ctag}]
+
+=== References
+include::../content/modules/writing-process/planning/references.adoc[tag={ctag}]
+
+=== Word list
+include::../content/modules/writing-process/planning/word-list.adoc[tag={ctag}]
+
+ifeval::["{ctag}" == "html"]
+== Exercise
+To practice what you've just learned, do the link:./planning-exercise.html[planning exercise].
+// Navigation
+include::./utilities/navigation-table.adoc[]
+endif::[]
+
+ifeval::["{ctag}" == "slide"]
+// End slide - not used in the self-study pages.
+== Fin
+include::../content/modules/writing-process/planning/planning-fin.adoc[tag={ctag}]
+endif::[]

@@ -1,0 +1,62 @@
+= Key concepts
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous:
+:parent: link:00-00-course-overview.html[Course overview]
+:next: link:01-01-planning.html[Planning]
+endif::[]
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+'''
+endif::[]
+
+// First slide image
+ifeval::["{ctag}" == "slide"]
+
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== Key concepts
+// Heading slide image
+
+image::keys.png[,400,align="center"]
+
+endif::[]
+
+ifeval::["{ctag}"!= "slide"]
+There are a few fundamental things to understand before you start the course. They come back again and again as you study. Remember them when you write.
+
+'''
+endif::[]
+
+
+== Good techical writing
+include::../content/modules/common/concepts/good-tech-writing.adoc[tag={ctag}]
+
+== Rule Zero
+include::../content/modules/common/concepts/rule-zero.adoc[tag={ctag}]
+
+== Cognitive load
+include::../content/modules/common/concepts/cognitive-load.adoc[tag={ctag}]
+
+== Cognitive styles
+include::../content/modules/common/concepts/cognitive-styles.adoc[tag={ctag}]
+
+== Style guides
+include::../content/modules/common/concepts/style-guide.adoc[tag={ctag}]
+
+ifeval::["{ctag}" == "slide"]
+== Fin
+include::../content/modules/common/concepts/concepts-fin.adoc[tag={ctag}]
+endif::[]
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+endif::[]

@@ -1,0 +1,62 @@
+= List and instruction exercise
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+*Fix the following lists.*
+*Refer to the link:../html/02-03-lists-instructions.html[lists and instructions] page or hover over the HINTS links for help.*
+
+'''
+
+To use the ruby slippers, we:
+
+* Click our heels together three times,
+* Optionally close our eyes, and
+* Repeat _There’s no place like home_.
+
+link:./list-exercise.html["HINTS",title="Focus on the reader's goal; use 'you' rather than 'we'; instructions should be a numbered list; format of optional steps; item end punctuation."]
+
+'''
+
+The telepathic native species of the planet Rukbat 4 include:​
+
+. gold fire lizards​
+. green fire lizards​
+. green dragons​
+. bronze dragons​
+. blue dragons​
+. bronze fire lizards​
+. gold dragons​
+. watchweyrs​
+. blue fire lizards
+
+link:./list-exercise.html["HINTS",title="Use sublists; use a bullet list; capitalize list items."]
+
+'''
+
+According to Alec, this year's fashionable colors in Riverside are Peaches of Misery, Pears of Pomposity, Woeful Walnut, Cat's Vomit Pink, and Hypochondriac's Veins.
+
+link:./list-exercise.html["HINTS",title="Should be a bullet list rather than a sentence."]
+
+'''
+
+Lawyers from the temple of the White Rat &mdash;
+
+* accept no pay except donations to the temple;
+* don't take clients whose cause they don't believe in;
+* refuse to show deference to people based on their rank;
+* aren't very good at following orders.
+
+link:./list-exercise.html["HINTS",title="End the introduction with a colon; abstract the negative words into the introduction; capitalize list items; change the punctuation at the end of the items."]
+
+'''
+
+To get from Innsmouth to Dunwich we go:
+
+* south on the Gloucester road
+* After Gloucester, please follow the signs for Kingsport
+* moving west along the Miskatonic River, we pass through Salem, Arkham, Miskatonic, and Aylesbury.
+* Then just cross the river at the Dunwich Bridge.
+
+link:./list-exercise.html["HINTS",title="Use a numbered list; use 'you' rather than 'we'; capitalize list items; make list items grammatically similar; don't use please; use a sublist; don't use 'just'."]
+
+'''

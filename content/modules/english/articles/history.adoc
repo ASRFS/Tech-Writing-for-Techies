@@ -1,0 +1,23 @@
+= A bit of history
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::rosetta.png['The Rosetta Stone',,400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+English is an _Indo-European_ language, one of a family that includes many languages originating in (surprisingly) India and Europe.
+
+Very few non Indo-European languages use articles. Even within the Indo-European family, articles are not universal. The common parent language didn't have them. Many of the child languages developed articles after the family drifted apart, but some didn't.
+
+But those languages that did end up with articles didn't just make them up. They adapted other words to this new purpose. And knowing what words turned into articles can help you to understand them.
+
+'''
+
+// end::html[]

@@ -1,0 +1,23 @@
+= Exceptions
+:fragment:
+:imagesdir: ../images
+
+
+// ---- SLIDE ----
+// tag::slide[]
+
+image::exceptions-v--.png["Flowchart, highlighting 'MyTh? PLANS?'.",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+[.ornamental]
+image::shush.png["Image of David Bowie with his finger over his lips"]
+
+If your noun is one of these exceptions, don't use an article.
+
+'''
+
+// end::html[]

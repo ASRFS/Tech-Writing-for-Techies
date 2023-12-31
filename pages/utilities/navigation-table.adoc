@@ -1,0 +1,6 @@
+// Navigation for the head and foot of html pages.
+// Specify the previous, parent, and next files in the adoc document and this renders it consistently.
+[.text-center]
+*&lArr;* {previous} *&lArr;*
+*&uArr;* {parent} *&uArr;*
+*&rArr;* {next} *&rArr;*

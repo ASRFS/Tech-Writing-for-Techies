@@ -1,0 +1,65 @@
+= What's between the [.green]#subject# and the [.purple]#verb#?
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+[.green]#*The Total Perspective Vortex*#, which is on the planet Frogstar B, [.purple]#*displays*# a model of the entire universe.
+====
+
+// ---- SLIDE 2 ----
+=== What's between the [.green]#subject# and the [.purple]#verb#?
+====
+[.green]#*The Total Perspective Vortex*#, [.red]#which is on the planet Frogstar B#, [.purple]#*displays*# a model of the entire universe.
+====
+
+// ---- SLIDE 3
+=== What's between the [.green]#subject# and the [.purple]#verb#?
+// end::slide[]
+// tag::html[]
+
+// ---- EXPLANATION ----
+Each sentence in technical writing should contain only one fact.
+
+Part of editing your first draft is hunting down stray facts that need their own sentences. There's one place where those extra facts often lurk: between the [.green]#*subject*# (the person or thing that does the action) and the [.purple]#*verb*# (an action word or a linking word like "is").
+
+Find those two parts of the sentence and look at the words between them. Count them.
+
+// tag::slide[]
+====
+[.green]#*The Total Perspective Vortex*#, [.red]#which is on the planet Frogstar B#, [.purple]#*displays*# a model of the entire universe.
+====
+// end::slide[]
+
+// ---- MORE EXPLANATION ----
+
+In the sentence above, the words between [.green]#*The Total Perspective Vortex*# and [.purple]#*displays*# are:
+
+[%autowidth, frame=none, grid=none]
+|===
+| [.red]#which# | [.red]#is# | [.red]#on# | [.red]#the# | [.red]#planet# | [.red]#Frogstar# | [.red]#B#
+^| 1
+^| 2
+^| 3
+^| 4
+^| 5
+^| 6
+^| 7
+|===
+
+Having that many words between the subject and the verb doesn't always mean there's a second fact in there. But if you have more than a few words in that space, it's time ask yourself the question.
+
+In this case, there is a fact in there: _the Vortex is on Frogstar B_. That's a different fact than what's left when you remove those words: _the Vortex displays a model of the entire universe_. Bring that hidden fact out into its own sentence.
+
+Two facts, two sentences.
+
+// ---- MORE OF SLIDE 3 ----
+// tag::slide[]
+====
+[.green]#*The Total Perspective Vortex*# [.purple]#*displays*# a model of the entire universe. [.blue]#*The Vortex is on the planet Frogstar B*#.
+====
+// end::slide[]
+
+'''
+// end::html[]

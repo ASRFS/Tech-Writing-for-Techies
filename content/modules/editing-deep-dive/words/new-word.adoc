@@ -1,0 +1,40 @@
+= New words
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+Envoys communicate with the Ekumen using their [.red]#*ansibles*#. They are not required to file regular reports.
+====
+
+// ---- SLIDE 2 ----
+=== New words
+// tag::html[]
+====
+Envoys communicate with the Ekumen using their [.red]#*ansibles*#. They are not required to file regular reports.
+====
+// end::slide[]
+
+// ---- EXPLANATION ----
+*THE PROBLEM*
+
+When they meet a term they don't know, readers have to guess its meaning from context. If they can't guess, they have to interrupt their flow to go look the word up. Both of these are cognitive load.
+
+*THE SOLUTION*
+
+. Define the term immediately after the first time you use it.
+. If you have a glossary, use the same definition there.
+. Use your word list (surprise!) to keep track of this
+
+The real trick, of course, is figuring out which words your readers are likely to understand. You should think about this from the link:planning.html[planning] stage onward.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+Envoys communicate with the Ekumen using their [.blue]#*ansibles*. An ansible is an instantaneous communication device.# Envoys are not required to file regular reports.
+====
+// end::slide[]
+
+'''
+// end::html[]

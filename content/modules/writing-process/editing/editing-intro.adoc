@@ -1,0 +1,21 @@
+= The art of editing
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::olifant.png["elephant sculptures",400.align="center"]
+// end::slide[]
+
+There's an old saying about how to carve an elephant. You take a block of stone and cut away anything that doesn't look like an elephant.
+
+The editing phase of writing is much the same: you start with a large chunk of text and cut away everything you don't need for the final version. It's hard work, but it can produce something worthwhile.
+
+
+NOTE:  This topic gives you a brief overview of the editing process. The link:./00-00-course-overview.html[Editing Deep-Dive module] contains more detailed information on improving your first draft.
+
+'''
+// end::html[]

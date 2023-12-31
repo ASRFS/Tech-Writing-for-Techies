@@ -1,0 +1,50 @@
+= If it's a table, make it a table
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+[frame=none,grid=none]
+|===
+| Two types of droid are common on cruisers. [.red]#Protocol droids, such as the humaniform C-3 series, specialize in human-cyborg relations. They are not designed for maintenance work. Meanwhile, R2 units have barrel shapes with multitool extensions, which makes them suitable for many solo engineering tasks. Unlike C-3 droids, they are not shipped with vocoders.​#
+|===
+====
+
+// ---- SLIDE 2 ----
+=== If it's a table, make it a table
+// tag::html[]
+
+====
+[frame=none,grid=none]
+|===
+| Two types of droid are common on cruisers. [.red]#Protocol droids, such as the humaniform C-3 series, specialize in human-cyborg relations. They are not designed for maintenance work. Meanwhile, R2 units have barrel shapes with multitool extensions, which makes them suitable for many solo engineering tasks. Unlike C-3 droids, they are not shipped with vocoders.​#
+|===
+====
+// end::slide[]
+// ---- EXPLANATION -----
+
+Sometimes you'll see a paragraph like the one above, which floods the reader with parallel information about similar things. Readers will probably end up taking notes to keep track of which type of droid does what. Those notes will probably be some kind of table.
+
+If you're the writer, spare your reader and give them the table.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+.Common droid types on cruisers
+[cols="2,3,5,5,3",header]
+|===
+| Series | Type | Function | Form factor | Vocoder
+| C-3 | Protocol | Human-cyborg relations | Humaniform | Y
+| R2 | Maintenance | Solo engineering | Barrel with multitool | N
+|===
+====
+// end::slide[]
+
+// ---- MORE EXPLANATION ----
+When readers approach any block of text, they have to figure out how to process it. _What is the writer doing here? What's important? How does the intformation relate?_ As with lists, the format of a table conveys information before the reader even starts looking at the content.
+
+Readers who see a table know it contains an array of similar items being evaluated using a consistent set of categories. Understanding that at a glance is a lot less work than wading through the block of text to figure it out. So your reader can get on with deciding which droid they need for their ship.
+
+'''
+// end::html[]

@@ -1,0 +1,27 @@
+= References
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::trinity.png["Image of reference books in Trinity College Library in Dublin.",,400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Instead of rewriting supplementary content that already exists, link your readers to existing sources. This came up in the context of audience knowledge and document scope, but it's important whenever you're referring to things outside of your document.
+
+Before you send readers to another document, you need to do evaluate the source:
+
+* *Evaluate its reliability*. Is it:
+** accurate?
+** clear?
+** well-maintained?
+* *Look at its scope*. Make sure that there's no gap between your scope and the external document's. If there is, you'll need to bridge it.
+* *Map its vocabulary*. If the external resource uses different terms than you do, tell your readers as you provide the link. That will reduce your readers' cognitive load as they go back and forth.
+
+'''
+
+// end::html[]

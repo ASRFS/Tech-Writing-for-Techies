@@ -1,0 +1,37 @@
+= Sheepinator exercise
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+
+_The following passage has a number of things wrong with it. Produce a better version._
+
+_Mouse over the links to see the hints. Note that no all of the problems with the paragraph can be solved, and there may be other problems not highlighted._
+
+The MegaCorp Sheepinator
+link:./hints-sheepinator.html["is used to",title="write active sentences"] turn
+link:./hints-sheepinator.html["our",title="use 'you' forms"]
+link:./hints-sheepinator.html["enemies",title="one meaning, one word"] into sheep. It does
+link:./hints-sheepinator.html["not",title="write positively"] need any ammunition^1^.
+link:./hints-sheepinator.html["To use it",title="if it's a list, make it a list; focus on the reader's goal"]
+link:./hints-sheepinator.html["we",title="use 'you' forms"]
+link:./hints-sheepinator.html["simply",title="avoid 'just', 'easy', and 'simply'"] point the muzzle
+link:./hints-sheepinator.html["in the direction of",title="cut out unnecessary words"]
+link:./hints-sheepinator.html["our",title="use 'you' forms"]
+link:./hints-sheepinator.html["enemy",title="one meaning, one word"], pull the trigger, hold the orange beam on the
+link:./hints-sheepinator.html["target",title="one meaning, one word"] ^2^, and wait for the progress bar to fill up^3^. Then
+link:./hints-sheepinator.html["our",title="use 'you' forms"]
+link:./hints-sheepinator.html["foe",title="one meaning, one word"]
+link:./hints-sheepinator.html["will become",title="write in the present"] a harmless sheep.
+link:./hints-sheepinator.html["We",title="use 'you' forms"] can also lock on^4^ to
+link:./hints-sheepinator.html["our",title="use 'you' forms"]
+link:./hints-sheepinator.html["enemy",title="one meaning, one word"] before pulling the trigger,
+link:./hints-sheepinator.html["but this is not required",title="types of instruction step"]. Large enemies can be
+link:./hints-sheepinator.html["sheepinated",title="keep terms in their original forms"] too. It will take more time than for small enemies. MegaCorp
+link:./hints-sheepinator.html["also",title="one idea per paragraph"] offers a Black Sheepinator that makes the sheep explode after transformation.
+
+== Notes from a subject matter expert
+
+. Most weapons in this context _do_ use ammunition, which must be collected or it will run out. It's therefore notable that this one doesn't run out of ammo.
+. When the user pulls the trigger, an orange beam of light comes out of the muzzle of the weapon. After a time, this orange beam turns things into sheep.
+. The progress bar displays on the user's screen. This is known functionality and does not need to be explained.
+. Lock-on mode is available on many weapons. It is known functionality and does not need to be explained.

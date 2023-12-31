@@ -1,0 +1,26 @@
+= Course structure
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+image::course-structure.png["Structure of the course"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+The course is made up of *modules*. Each module covers a specific subject.
+
+Each module contains a set of *topics*, discussions of specific aspects of the module subject. The topics are available as html pages for self-study and as slide decks for teaching purposes. If you're using the slide decks, the self-study pages can serve as speaker notes.
+
+There are also exercises for some of the topics. These are designed to reinforce the topic. They come with sample answers or hints.
+
+=== Modules
+
+The writing process:: A step-by-step methodology for technical writing, from the moment you decide to write something to when it's ready to send out.
+Editing deep dive:: Looking at the editing step of the writing methodology. How do you fix your first draft? How do you wrestle the text into a better, clearer form?
+Writing in English:: Many people who write in English aren't very confident about it. What are the commonest mistakes, and how can you fix them? And what to do about those annoying words _the, a, an_ if your native language doesn't have them?
+
+'''
+// end::html[]

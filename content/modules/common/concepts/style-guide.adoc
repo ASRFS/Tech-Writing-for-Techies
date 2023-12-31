@@ -1,0 +1,23 @@
+= Style guides
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::hairstyles.png["Image of different men's hairstyles from the 1950's.",,400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Writing style guides are tools to make your writing consistent with the people you work with.
+That way the documentation doesn't have distracting changes in voice and style.
+Style guides explain how to write, how to format different types of text, and even how to spell and punctuate common technical terms (wifi? WiFi? Wi-Fi?).
+
+This course follows to the https://developers.google.com/style/highlights[Google Developer Documentation Style Guide]. The guide itself has more details and examples.
+
+Ask if your organization/project has a style guide. If it does, and that guide disagrees with anything in this course, follow the guide rather than the course. If your organization/project doesn't have a style guide, it's time to adopt one.
+
+'''
+// end::html[]

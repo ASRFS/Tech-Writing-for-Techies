@@ -1,0 +1,44 @@
+= Course structure
+:fragment:
+
+== Tech Writing for Techies
+=== Course structure
+[ditaa, target="course-structure" format="png"]
+----
+                             +----------+
+                             |  Course  |
+                             | overview |
+                             +-----+----+
+                                   |
+                             +-----+-----+
+                             |    Key    |
+                             |  concepts |
+                             +-----+-----+
+                                   |
+                  +----------------+---------------------+
+                  |                |                     |
+        +- +------+------+   +-----+-----+        +------+-----+
+        |  | The writing |   | Editing   |        | Writing in |
+Modules |  | process     |   | deep dive |        | English    |
+        |  +-+-----------+   +-+---------+        +-+----------+
+        +-   |                 |                    |
+             |                 |                    |
+        +-   | +----------+    | +-------+          | +---------+
+        |    +-+ Planning |    +-+ Words |          +-+ Common  |
+        |    | +----------+    | +-------+          | | English |
+        |    |                 |                    | | errors  |
+        |    | +---------+     | +-----------+      | +---------+
+        |    +-+ Writing |     +-+ Sentences |      |
+        |    | +---------+     | +-----------+      | +----------+
+        |    |                 |                    +-+ Articles |
+        |    | +---------+     | +--------------+     | (the, a, |
+        |    +-+ Editing |     +-+ Lists &      |     | and an   |
+ Topics |      +---------+     | | Instructions |     +----------+
+        |                      | +--------------+
+        |                      |
+        |                      | +------------+
+        |                      +-+ Paragraphs |
+        |                        | & Tables   |
+        +-                       +------------+
+
+----

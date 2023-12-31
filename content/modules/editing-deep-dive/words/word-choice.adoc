@@ -1,0 +1,22 @@
+= Words matter
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE  ----
+// tag::slide[]
+// tag::html[]
+
+[.ornamental]
+image::word-world.png["a globe filled with words",500,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+It almost goes without saying that words are the building blocks of technical writing.
+
+Choose your words well, and your readers will find the documentation easy to understand. They won't even notice how clear and well-defined its ideas are, how smoothly it teaches new vocabulary and concepts, or how _pleasant_ it is to read.
+
+Choose your words badly, and your readers will be confused, tired and frustrated, without quite knowing why.
+
+'''
+// end::html[]

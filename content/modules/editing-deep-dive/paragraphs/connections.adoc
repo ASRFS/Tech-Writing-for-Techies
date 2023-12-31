@@ -1,0 +1,48 @@
+= Connect the sentences
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+[frame=none,grid=none]
+|===
+| The duty commander of a Babylon station monitors ships leaving the system. Exiting ships are required to declare a flag registry and destination. The jump gate controller opens the gate and holds it open until the exiting ship is through.
+|===
+====
+
+// ---- SLIDE 2 ----
+=== Connect the sentences
+// tag::html[]
+
+====
+[frame=none,grid=none]
+|===
+| The duty commander of a Babylon station monitors ships leaving the system. Exiting ships are required to declare a flag registry and destination. The jump gate controller opens the gate and holds it open until the exiting ship is through.
+|===
+====
+// end::slide[]
+// ---- EXPLANATION ----
+Now all of the sentences in the paragraph are about the same thing: ships leaving a system with a Babylon station. But they don't hang together. The events the sentences describe don't seem to have any relationship to each other.
+
+They're like a pile of bricks, not a wall. There's no mortar, no _connection_. Without that, each sentence raises contextual questions that the paragraph doesn't answer.
+
+* _How_ does the duty commander monitor the ships?
+* _Why_ do ships make an exit declaration?
+* _When_ does the jump gate controller open the gate?
+
+When you answer these questions, the sentences in the paragraph stop being a collection of random events that happen to take place in roughly the same place and time. They become a process, with reasons for the individual steps and a flow of control.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+[frame=none,grid=none]
+|===
+| The duty commander of a Babylon station monitors ships leaving the system. [.blue]#*To keep the duty commander informed*#, exiting ships are required to declare a flag registry and destination. [.blue]#*When the duty commander gives the signal*#, the jump gate controller opens the gate and holds it open until the exiting ship is through.
+|===
+====
+// end::slide[]
+
+'''
+
+// end::html[]

@@ -1,0 +1,28 @@
+= Countable
+:fragment:
+:imagesdir: ../images
+
+
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::tribble-coffee.png["Picture of Captain Kirk with multiple tribbles.",,400,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+Countable nouns are:
+
+* Things that can be counted &larr; *tribble*
+* A countable amount of an uncountable thing &larr; *coffee* in the sense of *cup of coffee*
+
+You can test whether a noun is countable by seeing if it has a singular and a plural (*tribble*/*tribbles*, *coffee*/*coffees*)^1^. Or you can try counting it.
+
+[.small]#1. English does have a few nouns that use the same word for singular and plural, such as _fish_ and _sheep_. But they're still countable. Sheep, in particular, are famously countable, though the process is famously boring.#
+
+'''
+
+// end::html[]

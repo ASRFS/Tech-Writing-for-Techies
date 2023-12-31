@@ -1,0 +1,67 @@
+= One idea per paragraph
+:fragment:
+:imagesdir: ../images
+
+// --- SLIDE 1 ----
+// tag::slide[]
+====
+[frame=none,grid=none]
+|===
+| The duty commander of a Babylon station monitors ships leaving the system. Exiting ships are required to declare a flag registry and destination. Ships arriving in the system must immediately transmit their previous exit declaration. The jump gate controller opens the gate and holds it open until the exiting ship is through.
+|===
+====
+
+
+// ---- SLIDE 2 ----
+=== One idea per paragraph
+
+====
+[frame=none,grid=none]
+|===
+| The duty commander of a Babylon station monitors ships leaving the system. Exiting ships are required to declare a flag registry and destination. [.red]#Ships arriving in the system must immediately transmit their previous exit declaration.# The jump gate controller opens the gate and holds it open until the exiting ship is through.
+|===
+====
+// ---- SLIDE 3 ----
+=== One idea per paragraph
+// tag::html[]
+// end::slide[]
+
+// ---- EXPLANATION ----
+The first step in improving your first-draft paragraphs is to make sure that each of them is about just one thing. Each one should explain *only one idea*.
+
+// ---- MORE OF SLIDE 3 ----
+// tag::slide[]
+====
+[frame=none,grid=none]
+|===
+| The duty commander of a Babylon station monitors ships leaving the system. Exiting ships are required to declare a flag registry and destination. [.red]#Ships arriving in the system must immediately transmit their previous exit declaration.# The jump gate controller opens the gate and holds it open until the exiting ship is through.
+|===
+====
+// end::slide[]
+
+// ---- MORE EXPLANATION ----
+In the example above, _almost_ all of the sentences are about what happens when ships leave a star system with a Babylon station in it. But one sentence is about ships arriving in the system.
+
+It's clear how that sentence ended up in the first draft. The writer had just mentioned exit declarations (of a ship's flag registry and destination). So they clearly followed that train of thought into the next sentence.
+
+But it's a distraction to a reader who is trying to understand what happens when ships leave a system containing a Babylon station. So it should be moved to another paragraph about when ships arrive in such a system.
+
+// ---- MORE OF SLIDE 3 ----
+// tag::slide[]
+====
+[frame=none,grid=none]
+|===
+| The duty commander of a Babylon station monitors ships leaving the system. Exiting ships are required to declare a flag registry and destination. The jump gate controller opens the gate and holds it open until the exiting ship is through. +
+&nbsp;
+
+[.blue]#Ships arriving in the system must immediately transmit their previous exit declaration.#
+|===
+====
+// end::slide[]
+// ---- YET MORE EXPLANATION ----
+
+Deciding how to divide up a paragraph is an art. It depends on which ideas, which distinctions, are important in your document. You can slice the same pile of information in different ways for different documents. Imagine how the example paragraph would be divided if you were writing a set of role descriptions for a Babylon station command crew.
+
+'''
+
+// end::html[]

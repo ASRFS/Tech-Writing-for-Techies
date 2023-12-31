@@ -1,0 +1,39 @@
+= What and why?
+:fragment:
+:imagesdir: ../images
+
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+In English, an _article_ is a little word that goes before a noun^1^.  There are two kinds:
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.step]
+
+* *Definite*: [.blue]#*the*#
+* *Indefinite*: [.blue]#*a*# / [.blue]#*an*#
+
+// end::html[]
+
+== What and why?
+
+Telling the reader whether they already know about a thing, or whether it's new to the conversation.
+
+// end::slide[]
+// tag::html[]
+
+In English, articles tell the reader whether or not they already know about a thing. If you're writing about an alien, does your reader know _which_ alien you're referring to? Is the alien you've been describing for the last six paragraphs, or some new alien that they're going to learn about now?
+
+Articles answer that question.
+
+Most skilled English speakers use articles instinctively, having internalized a complex set of rules and exceptions. But they can rarely explain those rules, which is a problem if you don't already know them. You can learn by experience, but it's a slow process.
+
+This lesson will start from zero and teach you some rules for using articles. They're not complete or perfect rules, but they can help you improve your writing.
+
+[.small]#1. A _noun_ is a word for a person, place, or thing.#
+
+'''
+// end::html[]

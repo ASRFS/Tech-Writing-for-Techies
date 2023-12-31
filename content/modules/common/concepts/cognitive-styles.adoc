@@ -1,0 +1,31 @@
+= Cognitive styles
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+
+_Different people think differently._
+
+// tag::slide[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|[large]*Verbal thinkers*
+
+"Please explain what you want me to do."
+a|[large]*Visual thinkers*
+
+image::puzzled.png["Image of a puzzled person taken from IKEA build instructions.",300]
+|===
+// end::slide[]
+
+// ---- EXPLANATION ----
+Cognitive styles are the reason you can't reduce everyone's extraneous cognitive load to zero. Some people absorb verbal information best and just want you to _tell them_ what they need to know. Others learn through pictures and diagrams, and find words tiring.
+
+IKEA instructions are the perfect litmus test: some people find them delightfully clear. Others can't make head or tail of them.
+
+Both kinds of people are _first class citizens_ of your information. Where possible, find ways to cater to both of them. This course focuses on technical _writing_ but you should also include visual elements in your documentation. Note that the images shouldn't just be decoration. They have to strike to the heart of what you're explaining.
+
+'''
+// end::html[]

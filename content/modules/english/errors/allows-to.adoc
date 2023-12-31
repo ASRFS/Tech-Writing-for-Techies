@@ -1,0 +1,94 @@
+= _Allows to_ isn't allowed
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+// tag::html[]
+
+[.ornamental]
+image::No_Goose_Sign.png["Sign forbidding geese",400,align="center"]
+
+// end::html[]
+== _Allows to_ isn't allowed
+
+// end::slide[]
+
+// ---- EXPLANATION  1 ----
+// tag::html[]
+In English, you can't say that something *_allows_* _to do something_ or *_forbids_* _to do something_ without mentioning _who_ is allowed or forbidden. There are a number of permission/prohibition words that act like this:
+
+* Permits
+* Authorizes
+* Requires
+
+// end:: html[]
+
+// ---- SLIDE 2 ----
+// tag::slide[]
+====
+[cols="2",frame=none,grid=none]
+|===
+a| The homeowners' association [.red]#*allows to*# plant triffids. +
+&nbsp;
+| &nbsp;
+a| The sign [.red]#*forbids to*# juggle geese.
+| &nbsp;
+|===
+====
+
+// end::html[]
+
+// ---- SLIDE 3 ----
+== _Allows to_ isn't allowed
+
+
+// end::slide[]
+
+// ---- EXPLANATION  1 ----
+// tag::html[]
+
+You could tell the reader _who_ is allowed or forbidden. But if you want to focus on what is allowed or forbidden, such details may distract your reader.
+
+// end:: html[]
+
+// ---- MORE OF SLIDE 3 ----
+// tag::slide[]
+====
+[cols="2",frame=none,grid=none]
+|===
+a| The homeowners' association [.red]#*allows to*# plant triffids.
+a| The homeowners' association *allows _residents_* (not landlords?) *to* plant triffids.
+
+a| The sign [.red]#*forbids to*# juggle geese.
+a| The sign *forbids _people_* (not robots?) *to* juggle geese.
+|===
+====
+
+// end::html[]
+
+// ---- SLIDE 4 ----
+== _Allows to_ isn't allowed
+// end::slide[]
+
+// ---- MORE EXPLANATION ----
+// tag::html[]
+
+It's easier to change the way you express what's allowed or forbidden. Instead of using a to- form (_to plant_, _to juggle_), use an -ing form (_planting_, _juggling_).
+
+// ---- MORE OF SLIDE 4 ----
+// tag::slide[]
+====
+[cols="2",frame=none,grid=none]
+|===
+a| The homeowners' association [.red]#*allows to*# plant triffids.
+a| The homeowners' association [.blue]#allows *planting triffids*#.
+
+a| The sign [.red]#*forbids to*# juggle geese.
+a| The sign [.blue]#forbids *juggling geese*#.
+|===
+====
+// end::slide[]
+
+'''
+// end::html[]

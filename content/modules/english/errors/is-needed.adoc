@@ -1,0 +1,62 @@
+= Be bossy!
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+[.ornamental]
+image::policeman.png["Policeman from Monopoly",400,align="center"]
+
+// end::slide[]
+
+// tag::html[]
+
+Tone is hard in writing. How direct can you be when you're telling someone to do something?
+
+In email, it's often politer to name a need and let the addressee decide to do something about it. You're telling your reader that you trust them to do what they feel is necessary.
+
+// end::html[]
+
+// tag::slide[]
+// ---- SLIDE 2 ----
+=== Be bossy!
+
+// tag::html[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a| [.red]#*It's necessary to*# bring the Emperor to Athoek Station.
+|
+a| The ancillary [.red]#*should be connected*# to the main AI.
+|
+|===
+====
+
+// end::slide[]
+
+Technical writing is different. You're assuming that your reader doesn't know what to do, or they'd be off doing it instead of reading the documentation. They want to be told, clearly and directly, what to do next. Direct commands reduce cognitive load.
+
+// end::html[]
+
+// tag::slide[]
+// ---- SLIDE 3 ----
+=== Be bossy!
+
+// tag::html[]
+====
+[cols="2",frame=none,grid=none]
+|===
+a| [.red]#*It's necessary to*# bring the Emperor to Athoek Station.
+a| [.blue]#*Bring*# the Emperor to Athoek Station.
+a| The ancillary [.red]#*should be connected*# to the main AI.
+a| [.blue]#*Connect*# the ancillary to the main AI.
+|===
+====
+
+// end::slide[]
+
+'''
+
+// end::html[]

@@ -1,0 +1,24 @@
+= Brainstorming
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+// tag::html[]
+
+[.ornamental]
+image::Conspiracy-Theory.png["Image of a man explaining a conspiracy theory against a background of clippings connected by strings",400,,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Sometimes a body of information has its own inherent structure. Once you gather up all the pieces, the connections among them start to show. Brainstorming means taking advantage of that phenomenon by letting the inherent relationships in your content determine the structure of your document.
+
+Following the natural connections that exist within your material gives your reader a logical path through the information.
+
+Brainstorming techniques include:
+
+Mind mapping:: Organizing information in a diagram based on the relationships between different facts. Often created using software.
+Card sorting:: Writing everything down on index cards or sticky notes, then sorting them categories. Frequently done during sprint retrospectives.
+
+'''
+// end::html[]

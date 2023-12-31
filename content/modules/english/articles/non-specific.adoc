@@ -1,0 +1,25 @@
+= Non-specific
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::son-of-man-sm.png["'The Son of Man' painting by René Magritte.",,400,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+What does it mean if something is _not_ specific?
+
+It doesn't mean it doesn't exist, or that your audience isn't aware of it.
+
+It means that your audience can't differentiate it from similar things, pick it out of a crowd, or tell which items are in or out of its group. In other words, they can't point to it or draw a line around it. But they can still talk about it.
+
+'''
+
+// end::html[]

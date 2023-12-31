@@ -1,0 +1,50 @@
+= Phrase things positively
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+[.red]#*Don't close*# your eyes [.red]#*unless*# there are [.red]#*no*# weeping angels nearby.
+====
+
+// ---- SLIDE 2 ----
+=== Phrase things positively
+
+// tag::html[]
+
+====
+[.red]#*Don't close*# your eyes [.red]#*unless*# there are [.red]#*no*# weeping angels nearby.
+====
+// end::slide[]
+
+// ---- EXPLANATION 1 ----
+*THE PROBLEM*
+
+Understanding negative sentences is harder than understanding positive ones. The reader has to mentally tag which parts of a sentence are true and what parts are not. Positive sentences don't require that work, because everything in them can be treated as true.
+
+*THE SOLUTION*
+
+. Try to change negative pieces of information to positive ones ([.red]#don't close your eyes# becomes [.blue]#keep your eyes open#).
+. Check whether the sentence still has the same meaning for the reader. You don't want to change the content of the text, just the form. Only use the positive sentence if you haven't changed the meaning.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+Keep your eyes open if weeping angels are nearby.
+====
+// end::slide[]
+
+// ---- EXPLANATION 2 ----
+*A DEEPER POINT TO CONSIDER*
+
+Doing this exercise and comparing the sentences is a good way to think about the scope of your writing.
+
+For example, there's a case that's not covered by either sentence: what to do if you don't know whether or not there are weeping angels nearby.
+
+The first, negative sentence carefully limits what you're going to talk about. Did you write it this way because what's outside of those limits is complicated and hard to explain? (How do you detect weeping angels?) Is the negative sentence a sign that you were avoiding the difficult bits when you wrote that first draft?
+
+Does your reader need to know the messy, complicated thing you were avoiding? If so, you need to address that gap, whether or not you change the sentence to be more positive.
+
+'''
+// end::html[]

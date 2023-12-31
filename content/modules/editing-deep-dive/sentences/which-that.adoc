@@ -1,0 +1,92 @@
+= Think about _which_ and _that_
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+====
+The Total Perspective Vortex, [.red]#*which* is on the planet Frogstar B#, displays a model of the entire universe.
+====
+
+// ---- SLIDE 2 ----
+=== Think about _which_ and _that_
+// tag::html[]
+====
+The Total Perspective Vortex, [.red]#*which* is on the planet Frogstar B#, displays a model of the entire universe.
+====
+
+====
+The Total Perspective Vortex [.blue]#*that* is on the planet Frogstar B# displays a model of the entire universe.
+====
+// ---- EXPLANATION ----
+// end::slide[]
+
+There's one thing to be careful of when you use the "count the words and check for a fact" technique.
+
+The two sentences above look almost exactly the same. Just a couple of commas left out, and _that_ instead of _which_. But they're very different, and the difference is the [.green]#*subject*#.
+// end::html[]
+
+// tag::slide[]
+// ---- SLIDE 3 ----
+=== Think about _which_ and _that_
+
+
+====
+[.green]#*The Total Perspective Vortex*#, which is on the planet Frogstar B, [.purple]#*displays*# a model of the entire universe.
+====
+// end::slide[]
+// tag::html[]
+
+// ---- MORE EXPLANATION ----
+
+The subject of this first sentence is [.green]#*The Total Perspective Vortex*#. The way it's written shows that there's only one Vortex. The reader doesn't need any more information to know what you're talking about.
+
+After stating the subject, the you have two facts about it:
+
+* It is on the planet Frogstar B.
+* It displays a model of the entire universe.
+
+Two facts, two sentences:
+
+====
+[.green]#*The Total Perspective Vortex*# [.purple]#*displays*# a model of the entire universe. [.blue]#*The Vortex is on the planet Frogstar B*#.
+====
+
+// end::html[]
+// tag::slide[]
+====
+[.green]#*The Total Perspective Vortex that is on the planet Frogstar B*# [.purple]#*displays*# a model of the entire universe.
+====
+// end::slide[]
+
+// tag::html[]
+// ---- YET MORE EXPLANATION ----
+
+The subject of the second example is longer. It's [.green]#*The Total Perspective Vortex that is on the planet Frogstar B*#. This implies that there's more than one Vortex, so the you have to tell the reader _which_ Vortex you're talking about. The "that" clause explains that it's the one on Frogstar B (so, not one on the planet Traal).
+
+Once the subject is clear, the you have only one fact to document:
+
+* It displays a model of the entire universe.
+
+Because there's only one fact, you don't need to split up the sentence:
+
+// end::html[]
+
+// ---- SLIDE 4 ----
+// tag::slide[]
+=== Think about _which_ and _that_
+
+====
+[.green]#*The Total Perspective Vortex*# [.purple]#*displays*# a model of the entire universe. [.blue]#*The Vortex is on the planet Frogstar B*#.
+====
+
+// tag::html[]
+====
+[.green]#*The Total Perspective Vortex that is on the planet Frogstar B*# [.purple]#*displays*# a model of the entire universe.
+====
+
+// end::slide[]
+
+'''
+// end::html[]

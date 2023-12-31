@@ -1,0 +1,91 @@
+= Course links
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+[options=autowidth]
+|===
+| No. | Module/Topic | Slide link | Page link | Exercise link
+
+| *00*
+| *Course overview*
+| link:../slides/00-00-course-overview-slides.html[Slides about the course]
+| This page. Hi!
+| &nbsp;
+
+| 00.01
+| Key concepts
+| link:../slides/00-01-key-concepts-slides.html[Key concepts slides]
+| link:./00-01-key-concepts.html[Key concepts page]
+| &mdash;
+
+| *01*
+4+| *The writing process*
+
+| 01.01
+| Planning
+| link:../slides/01-01-planning-slides.html[Planning slides]
+| link:./01-01-planning.html[Planning page]
+| link:./planning-exercise.html[Planning exercise] +
+link:./sa-planning.html[Planning exercise sample answer]
+
+| 01.02
+| Writing
+| link:../slides/01-02-writing-slides.html[Writing slides]
+| link:./01-02-writing.html[Writing page]
+| link:./writing-exercise.html[Writing exercise] +
+link:./sa-writing.html[Writing exercise sample answer]
+
+| 01.03
+| Editing
+| link:../slides/01-03-editing-slides.html[Editing slides]
+| link:./01-03-editing.html[Editing page]
+| link:./editing-exercise.html[Editing exercise]
+
+| *02*
+4+| *Editing deep-dive*
+
+| 02.01
+| Words
+| link:../slides/02-01-words-slides.html[Words slides]
+| link:./02-01-words.html[Words page]
+| &mdash;
+
+| 02.02
+| Sentences
+| link:../slides/02-02-sentences-slides.html[Sentences slides]
+| link:./02-02-sentences.html[Sentences page]
+| link:./sentence-exercise.html[Word and sentence exercises]
+
+| 02.03
+| Lists and instructions
+| link:../slides/02-03-lists-instructions-slides.html[Lists and instructions slides]
+| link:./02-03-lists-instructions.html[Lists and instructions page]
+| link:./list-exercise.html[List and instruction exercises]
+
+| 02.04
+| Paragraphs and tables
+| link:../slides/02-04-paragraphs-tables-slides.html[Paragraphs and tables slides]
+| link:./02-04-paragraphs-tables.html[Paragraphs and tables page]
+| link:./sheepinator-exercise.html[Editing deep-dive exercise]
+
+| *03*
+4+| *Writing in English*
+
+| 03.01
+| Common English errors
+| link:../slides/03-01-english-errors-slides.html[Common English errors slides]
+| link:./03-01-english-errors.html[Common English errors page]
+| &mdash;
+
+| 03.02
+| Articles
+| link:../slides/03-02-articles-slides.html[Articles slides]
+| link:./03-02-articles.html[Articles page]
+| &mdash;
+|===
+
+// end::html[]
+
+'''

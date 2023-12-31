@@ -1,0 +1,35 @@
+= Mental models
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+[.ornamental]
+image::glass-elevator.png["Image of a glass elevator.",300,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+People can only take in information if they have a framework to organize it. This framework is called a _mental model_.
+
+Whatever you're documenting, its existence started with someone thinking about a problem in a particular way. How they thought about that problem &mdash; their mental model &mdash; determined how they solved it, what abstractions, analogies, design patterns, and approaches they used.
+
+Your reader needs to share that mental model or your documentation won't make any sense to them.
+
+.What does it look like when your reader doesn't share your mental model?
+****
+When my younger brother was about 4 years old, he loved riding in elevators. As a treat, we took him to a building whose elevators had glass walls. We rode one several times. Afterwards, we asked him, "What was special about that elevator?"
+
+We expected him to say something about glass, but what he said was, "It goes up and down."
+
+His mental model of an elevator was something like _A box that you go into and press a button. You feel funny for a little while, then the doors open and you're somewhere different._ He didn't understand how the different places related to each other, or how the elevator connected them.
+
+Imagine explaining that your elevator got _stuck between floors_ to him.
+
+****
+
+Your audience may be in the same situation with what you're documenting. Ensure that somewhere early on in the documentation (in a "Key Concepts" section or an introductory paragraph), you give them enough of a mental model to understand everything else you want to teach them.
+
+'''
+
+// end::html[]

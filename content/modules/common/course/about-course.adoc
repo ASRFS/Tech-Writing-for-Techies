@@ -1,0 +1,23 @@
+= About the course
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+[.ornamental]
+image::letterlogo.png["Course logo and name",500,align="center"]
+
+// ---- SLIDE ----
+// tag::slide[]
+This course helps people *in any role*, and *with any level of writing experience*, to *improve* their *technical writing*.
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+In any role:: Although the course is named "Tech writing for techies", anyone working in the software industry is technical enough. The name is intended to encourage people in technical roles to take it, not to discourage anyone else.
+With any level of writing experience:: There's a lot of information in the course. Some of it is aimed at people who almost never write (and who hate writing! you're welcome here too!). Other points are more useful for experienced writers. There should be something for everyone.
+Improve:: This course is not about making you a _good_ writer. Only writing can do that. It's about making you a _better_ writer.
+Technical writing:: This means writing that explains technical matters, or teaches people to do technical things. It focuses on clarity and ease of reading. But a lot of what's in this course is useful for any kind of business communication.
+
+'''
+// end::html[]

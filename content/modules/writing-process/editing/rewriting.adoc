@@ -1,0 +1,23 @@
+== Rewriting
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::metamorphosis.png["Drawing of the lifecycle of a caterpillar and butterfly",align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+The biggest part of the editing phase is _rewriting_: taking the same content and expressing it in a different, clearer way.
+
+Rewriting your first draft can be really difficult. Rereading the text, you may think your writing is terrible. But remember that that was the intention: first write, then fix. You're fine!
+
+(And if it's really terrible, that means that anything you do will probably improve it! I tell myself this often.)
+
+
+'''
+
+// end::html[]

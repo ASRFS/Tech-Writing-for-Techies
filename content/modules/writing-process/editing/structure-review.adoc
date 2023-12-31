@@ -1,0 +1,24 @@
+= Structural editing
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::innotel.png["Image of a building with wildly mismatching elements",,500,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Even if the individual parts of your document are perfect, they may not fit into the document as a whole. Time to step back and look at the big picture.
+
+This is important whether you're writing something new or updating something that already exists:
+
+* If you're writing a new document, read through it like someone who doesn't already know the subject. Does the order make sense? Does the text introduce concepts before it builds on them? Does it define new words and unpack abbreviations?
+* If you're updating something, make sure your updates fit in with what already exists. Does the whole thing read like it was written by one person? Did you update everything that needed to be updated? Did you put your updates in the right places, given their level of detail and their context?
+
+
+'''
+
+// end::html[]

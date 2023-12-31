@@ -1,0 +1,30 @@
+= Proofreading
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+Time to clean up:
+
+[%step]
+* Repeated words you've repeated.
+* Words that missed.
+[%step]
+. Inconsistencies.
+[%step]
+* Sentences you meant to finish but
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+*There are two things you should remember about proofreading:*
+
+* Plan to do several passes, because every change you make can add typos.
+* Proofreading should be the last thing you do before calling your document finished.
+* Even then, you're probably going to miss things. Take comfort that what you end up with is better than what you started with.
+
+'''
+
+// end::html[]

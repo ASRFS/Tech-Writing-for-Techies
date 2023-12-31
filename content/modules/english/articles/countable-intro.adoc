@@ -1,0 +1,30 @@
+= Countable
+:fragment:
+:imagesdir: ../images
+
+
+
+// ---- SLIDE ----
+// tag::slide[]
+
+// full flowchart image
+
+image::countable-v.png["Flowchart, highlighting 'Countable?'.",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+// tag::html[]
+
+// cropped flowchart image
+[.ornamental]
+image::countable-v-sm.png["Flowchart, highlighting 'Countable?'.",300,align="center"]
+
+The next question is _are you talking about something that people can count?_
+
+In English, only certain kinds of things can be counted. Other things, often abstract ideas (or things English treats like abstract ideas), are not countable.
+
+'''
+
+// end::html[]

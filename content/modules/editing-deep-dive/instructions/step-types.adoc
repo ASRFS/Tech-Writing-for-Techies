@@ -1,0 +1,49 @@
+= Three kinds of step
+:fragment:
+:imagesdir: ../images
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+Instructions can contain three kinds types of step:
+
+* *Required step*: Your reader _must_ do this.
+* *Conditional step*: _If_ the condition is true, then the reader must do this. Always put the condition first so your reader knows early on whether to pay attention to the step.
+* *Optional step*: Like a conditional step, this is something that not all readers have to do. The step may be completely optional. Or it may be a conditional instruction whose condition is too complicated for a simple  _if_ clause.
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+How to evade a sandworm in the deep desert:
+
+. Optional: Activate a thumper to distract the worm. [.green]#*&larr; Optional*#
+. Walk with an uneven rhythm. [.green]#*&larr; Required*#
+. If there are rocks nearby, go toward them. [.green]#*&larr; Conditional*#
+====
+// end::slide[]
+
+[.ornamental]
+image::sandworm.png["Line drawing of a sandworm from Dune",500,align="center"]
+
+Picture your reader on the desert planet Arakkis, also known as Dune. They've just crashed their flyer in the deep desert, which is where the sandworms roam. What do they do now?
+
+There are two important things to know about sandworms:
+
+* If they catch you, they will eat you.
+* They are attracted to rhythmic noises.
+
+So your reader _absolutely must_ walk with an uneven rhythm. Otherwise their footsteps will attract a worm. _If_ there are rocks nearby, they should go toward them, because sandworms an't get into rock formations.
+
+Should they activate a thumper, which is a device that gives out a rhythmic thumping noise after a short delay? Well, that's complicated.
+
+* Do they have a thumper with them?
+* What kind of sand are they on? Will the vibrations carry or be muffled?
+* Are they able to move quickly enough to get away from the thumper before it starts thumping? If not, a thumper is less of a distraction and more of a sandworm dinner bell.
+
+Realistically, your reader is going to need a separate section of your documentation that explains thumpers and how to use them.
+
+NOTE: The correct way to signal an optional step is to start it with [.blue]#Optional:#. Many people write [.red]#Optionally,# but that's not grammatically correct.
+
+'''
+
+// end::html[]

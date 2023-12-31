@@ -1,0 +1,26 @@
+= Specific means _the_
+:fragment:
+:imagesdir: ../images
+
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::specific-v-the.png["Flowchart, highlighting 'Specific?' and 'THE'.",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+[.ornamental]
+image::godfinger.png["Part of 'The Creation of Man' by Michelangelo.",300,align="center"]
+
+If it's specific, if your audience can point to it, draw a circle around it, or identify what is and isn't included, use [.blue]#*the*#.
+
+If it's not specific, keep testing.
+
+'''
+
+// end::html[]

@@ -1,0 +1,44 @@
+= Vowels
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+
+
+[.ornamental]
+image::vowelpics.png["Image of 'The Scream' with 'AN' over it, and 'Mona Lisa' with 'A' over it.",400,align="center"]
+
+// end::slide[]
+
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+If English pronunciation is still a mystery to you, here's a table that explains whether to use [.blue]#*a*# or [.blue]#*an*#. You do still need to test things that start with _H_ and _U_ on a case-by-case basis.
+
+[cols="1,3,3"]
+|===
+| Word type | _A_ | _AN_
+
+a| Words and acronyms
+a| Starting with consonants^1^ _except_ *H* +
+Starting with *H* where the H is voiced: _hat_ +
+Starting with *U* where the first sound is "you": _universe_
+a| Starting with *A*, *E*, *I*, *O* +
+Starting with *H* where the H is silent: _honor_ +
+Starting with *U* where the first sound is "uh": _umbrella_
+
+a| Initialisms
+a| First letters whose names start with a consonant sound: +
+B, C, D, G, J, K, P, Q, T, U, V, W, Y, Z
+a| First letters whose names start with a vowel sound: +
+A, E, F, H, I, L, M, N, O, R, S, X
+
+|===
+
+[.small]#1. All letters except A, E, I, O, and U, which are called _vowels_.#
+
+'''
+
+// end::html[]

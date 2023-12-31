@@ -1,0 +1,51 @@
+= Apples pie
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+====
+Captain Decker flew the _USS Constellation_ into the [.red]#*planets*# killer. +
+====
+
+// ---- SLIDE 2 ----
+=== Apples pie
+
+====
+Captain Decker flew the _USS Constellation_ into the [.red]#*planets*# killer. +
+Captain Decker flew the _USS Constellation_ into the [.blue]#*planet*# killer.
+====
+
+// ---- SLIDE 3 ----
+=== Apples pie
+
+// tag::html[]
+
+[.ornamental]
+image::apples-pie.png["An apple pie baked and photographed by Ben Wolfe",400,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION  1 ----
+
+In technical writing, things are often named for their relationship to other things. So an _**API** key_ is a key that allows you to use an API.
+
+When the relationship between the things is many to one, how do you create the name? If there's a set of names of categories in your code, are they _category names_ or _categories names_? If a planet killer kills more than one planet, shouldn't it be a _planets killer_?
+
+Logic would dictate that the name would reflect the proportions of the relationship.
+
+====
+Captain Decker flew the _USS Constellation_ into the [.red]#*planets*# killer.
+====
+
+Unfortunately, English isn't always logical. No matter how many planets the thing kills, you still have to use the singular.
+
+====
+Captain Decker flew the _USS Constellation_ into the [.blue]#*planet*# killer.
+====
+
+A good way to remember it is that many apples go into a single apple pie. But it's still an *apple* pie, not an *apples* pie.
+
+'''
+// end::html[]

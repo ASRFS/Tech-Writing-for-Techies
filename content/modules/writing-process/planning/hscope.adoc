@@ -1,0 +1,33 @@
+= Horizontal scope
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+You need to figure out the scope of the task from your reader's point of view:
+
+Where does it start?:: What are the entry criteria? What is the definition of ready?
+Where does it end?::  What are the exit criteria? What is the definition of done? How will they know they're done?
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+The boundaries of what you do may not be the boundaries of what your audience wants to do.
+
+image::scope1.png["Horizontal bar with four regions, A & B being what the team does and B & C being what the reader needs to meet their goals. A & B are highlighted.",align="center"]
+image::scope2.png["Horizontal bar with four regions, A & B being what the team does and B & C being what the reader needs to meet their goals. B & C are highlighted.",align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+[upperalpha]
+A. You may do stuff that your reader doesn't need to know about it...however cool you find it. Don't include it.
+B. You do stuff your reader needs to know about to meet their goals. That's why you're writing this documentation.
+C. Someone else does stuff your reader needs to meet their goals. You don't have to write this documentation, but you need to provide access to it. Make sure that the documentation is well-maintained. Give your readers a conceptual bridge to it (for example, a map of parameter names between the two).
+D. Totally irrelevant. Don't write about this.
+
+This is another way you need to step out of your own context and into your reader's.
+
+NOTE: Case C is the one exception to the requirement that documents can stand on their own.
+
+'''
+
+// end::html[]

@@ -1,0 +1,28 @@
+= Weasels
+:fragment:
+:imagesdir: ../images
+
+---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::release.png["Image of Leonardo Da Vinci's painting of a woman with a stoat. On it are superimposed the words 'RELEASE THE WEASELS'.",,400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Separating the writing and editing steps means you get to use weasels to write the difficult things.
+
+Yes, weasels.
+
+. In the *writing* stage, you can express your ideas vaguely. You're free to use what Wikipedia calls "weasel words", such as _maybe_, _sort of_, and _under some circumstances_. You can lean on hand-waving words like _this_ and _it_ that don't point back to anything in particular. And when you're writing something that may be controversial, vagueness gives you a place to hide.
+. Then in the *editing* stage, you go from vagueness to clarity. Release the weasels from your text into the wild and make things clear for your readers:
+** Take a stand about what's true. No more _maybes_.
+** If things aren't simple, explain the complexity. Under _what_ circumstances, exactly?
+** Be specific: make it clear what every _this_ and _it_ refers to.
+
+Both steps are challenging, but neither is as hard as writing something both true and clear in one go.
+
+'''
+
+// end::html[]

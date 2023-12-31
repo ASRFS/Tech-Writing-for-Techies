@@ -1,0 +1,19 @@
+// Shared AsciiDoc attributes for topic files.
+// Include this file in any file to be rendered.
+:imagesdir: ../content/images
+:favicon: ../content/images/favicon.ico
+// attributes for building the html pages
+:stylesheet: ../css/plain.css
+:toc: left
+:toc-title: In this topic:
+:data-uri:
+:nofooter:
+// attributes for building the slide deck
+:revealjs_customtheme: ../../css/slides.css
+:revealjs_transition: none
+:revealjs_center: false
+:revealjs_controls: false
+:revealjs_progress: false
+:revealjs_navigationMode: linear
+// setting a ctag just as a default
+:ctag: html

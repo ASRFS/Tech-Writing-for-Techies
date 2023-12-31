@@ -1,0 +1,17 @@
+= Planning
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::Word-embrace.png["Image of a woman being embraced by text.",300,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Once you have a better understanding of your audience and their needs, the next thing to plan is how to meet those needs.
+
+'''
+// end::html[]

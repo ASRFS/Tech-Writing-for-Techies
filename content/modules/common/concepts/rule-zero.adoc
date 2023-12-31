@@ -1,0 +1,27 @@
+= Rule zero
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|image::skull-and-crossbones.png["Image of a skull and crossbones",500,,align="right"]
+a|image::guidelines.png["Text: 'Most writing advice is what you'd call GUIDELINES rather than actual RULES,500]
+|===
+// end::slide[]
+
+// ---- EXPLANATION ----
+So if good technical writing is writing that communicates, can we just throw away all the rules?
+
+Not so fast.
+
+Writing rules exist for a reason. You'll find that writing that communicates to your readers is more likely to follow the rules than than to break them. But there _are_ times when the rules get in the way. (Some of them are covered in this course.)
+
+If you have to choose between communicating with your audience and sticking to the rules, break the rules. They're really just guidelines.
+
+'''
+
+// end::html[]

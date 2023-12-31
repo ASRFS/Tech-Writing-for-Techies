@@ -1,0 +1,80 @@
+= Shortening sentences
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+// tag::html[]
+
+====
+Given that sentences are the primary building blocks of documentation, it is important that each of them conveys only one single fact, stated as simply as possible, so that the reader can grasp each item completely before going on to the next.
+====
+// end::slide[]
+
+// ---- EXPLANATION 1 ----
+[.ornamental]
+image::chocolate-orange.png["Image of a chocolate orange with some slices falling out",500,align="center"]
+
+This is a classic first-draft sentence. It's very long, full of extra words, and wanders from topic to topic. Everything in it is important, but the reader has to work to get that important stuff out. How can you fix this?
+
+First, identify the separate facts in the sentence. They're marked in with different colors below.
+
+// end::html[]
+
+// ---- SLIDE 2 ----
+// tag::slide[]
+== Shortening sentences
+
+// tag::html[]
+
+====
+[.blue]#Given that sentences are the primary building blocks of documentation#, *it is important that each of them conveys only one single fact*, [.green]#stated as simply as possible#, [.purple]#so that the reader can grasp each item completely before going on to the next#.
+====
+// end::slide[]
+
+// ---- EXPLANATION 2 ----
+Next, cut out any extra words, so that each fact stands out in its sentence. Rephrase unclear or wordy text. This step is really an exercise in word choice.
+// end::html[]
+
+// ---- SLIDE 3 ----
+// tag::slide[]
+== Shortening sentences
+
+// tag::html[]
+
+====
+[.strike]#Given that# [.blue]#sentences are the primary building blocks of documentation#, [.strike]#it is important that# *each of them conveys* [.strike]#only# *one* [.strike]#single# *fact*, [.green]#stated as simply as possible#, [.strike]#so that# [.purple]#the reader can# [.strike]#grasp each item completely before going on to the next#.
+====
+
+// end::slide[]
+// ---- EXPLANATION 3 ----
+Now turn that long sentence about lots of things into a set of short ones, each about only one thing.
+
+// end::html[]
+
+// ---- SLIDE 4 ----
+// tag::slide[]
+== Shortening sentences
+
+// tag::html[]
+
+====
+[.blue]#Sentences are the primary building blocks of documentation.# *Each sentence should convey one fact.* [.green]#This fact should be stated as simply as possible.# [.purple]#That way, the reader can learn things one at a time.#
+====
+// end::slide[]
+
+'''
+// end::html[]
+
+// ---- SLIDE 5 ----
+// tag::slide[]
+== Shortening sentences
+
+====
+[.blue]#Sentences are the primary building blocks of documentation.# *Each sentence should convey one fact.* [.green]#This fact should be stated as simply as possible.# [.purple]#That way, the reader can learn things one at a time.#
+====
+
+====
+Given that sentences are the primary building blocks of documentation, it is important that each of them conveys only one single fact, stated as simply as possible, so that the reader can grasp each item completely before going on to the next.
+====
+// end::slide[]

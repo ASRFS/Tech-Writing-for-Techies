@@ -1,0 +1,31 @@
+= Uncountable
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+
+image::countable-v--.png["Flowchart, highlighting 'Countable?' and '---'",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+
+[.ornamental]
+image::count-no.png["Image of Count von Count from Sesame Street with an X over him",align="right"]
+
+
+If a noun is:
+
+* Non-specific (so you can't use [.blue]#*the*#)
+* Not countable (so you can't use [.blue]#*a*# or [.blue]#*an*# because they come from the number _one_)
+
+...then don't use any articles before it.
+
+If it is countable, keep testing.
+
+'''
+
+// end::html[]

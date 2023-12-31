@@ -1,0 +1,24 @@
+= The goal of writing
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+// tag::slide[]
+
+// tag::txt[]
+* It is the goal of the writing step to produce *words*.
+* It is _not_ the goal of the writing step to produce *good* words.
+
+[.ornamental]
+image::poop.png["Poop emoji",150,align="center"]
+
+// end::slide[]
+
+Even experienced writers sometimes forget that the first draft can be terrible. [.strike]#If# When you find yourself muttering as you write, _This is amazingly awful_, keep writing. It's a completely natural feeling.
+
+The alternative is to spend an hour polishing the first half of of the first sentence. That's not a good use of your time, and it gives you no way forward. You can't fix what you haven't written.
+
+IMPORTANT: The point of a first draft is _not_ to create something you're happy with. The point is to create something you can fix.
+
+'''
+// end::html[]

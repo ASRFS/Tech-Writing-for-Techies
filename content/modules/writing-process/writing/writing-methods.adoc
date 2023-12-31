@@ -1,0 +1,29 @@
+= Writing methods
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+There are three basic methods for producing your first draft:
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[%step]
+* Outlining
+* Brainstorming
+* Free writing
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+These are tendencies rather than hard and fast categories. Which method you use can also vary over time. Some people drift from one methodology to another, while others mostly stick to one.
+
+At heart, the three represent different approaches to the relationship between information and its structure. Do you pick a structure first, let the content determine the structure, or throw it all down and worry about organization later?
+
+Even if your instinct is to use one particular approach, it's worth trying them all. You may find a secret superpower.
+
+'''
+
+// end::html[]

@@ -1,0 +1,11 @@
+= The goal of writing (first slide)
+:fragment:
+:imagesdir: ../images
+
+// tag::slide[]
+
+[%step]
+* It is the goal of the writing step to produce *words*.
+* It is _not_ the goal of the writing step to produce *good* words.
+
+// end::slide[]

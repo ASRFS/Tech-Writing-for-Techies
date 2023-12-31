@@ -1,0 +1,22 @@
+= Short is good
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+// tag::html[]
+
+[.ornamental]
+image::ewok.png["Image of an ewok from Star Wars",400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Short sentences (less than 20 words) are better than long sentences.
+
+Short sentences are easier to _read_.:: They impose less cognitive load on readers. Long sentences take more attention and can slow readers down. An if they lose their place, there's more to reread.
+Short sentences are easier to _understand_.:: They tend to have simpler grammar. It's easier to misread a long sentence.
+Short sentences are easier to _write_.:: At almost any level of English skill, a short sentence with simple grammar is easier to write than a long one.
+
+'''
+
+// end::html[]

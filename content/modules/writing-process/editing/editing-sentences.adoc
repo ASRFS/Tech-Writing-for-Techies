@@ -1,0 +1,28 @@
+= Editing sentences
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+===== _Each sentence should contain only one fact._
+
+// tag::html[]
+
+[.ornamental]
+image::chocolate-orange.png["Image of a chocolate orange with slices falling out",400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+A lot of rewriting is breaking up huge sentences into bite-sized pieces.
+
+Many people write very long sentences in their first drafts. And that's fine! First drafts are for content, not style.
+
+But if your sentences wander all over the place, going from one subject to another, your readers have to work harder to follow them. (And that's link:./00-01-key-concepts.html#_cognitive_load[cognitive load].) So you need to split them up.
+
+The goal is that *each sentence should contain only one fact*. If there are two facts, make them two sentences. That way your reader can absorb the information one manageable chunk at a time.
+
+
+NOTE: You can read more about this in the link:./02-02-sentences.html[sentences] topic in the Editing deep-dive module.
+
+'''
+// end::html[]

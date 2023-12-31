@@ -1,0 +1,20 @@
+= Audience
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::Anonymous-Mask.png["Anonymous mask with circle and slash.",align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+The most important thing to think about in writing is your audience. Who will be reading what you write?
+
+You don't have to think about personas the way advertising copywriters or user experience professionals do. You don't need to know your readers' names or their favorite colors. But there are things you need to know so you can communicate with them effectively.
+
+'''
+
+// end::html[]

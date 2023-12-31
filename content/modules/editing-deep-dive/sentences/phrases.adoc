@@ -1,0 +1,42 @@
+= Cut down on phrases
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+The Arkenstone is [.red]#*on top of* the dragon's hoard *under* the Lonely Mountain *beside* the Long Lake#.
+====
+
+// ---- SLIDE 2 ----
+=== Cut out phrases
+// tag::html[]
+
+====
+The Arkenstone is [.red]#*on top of* the dragon's hoard *under* the Lonely Mountain *beside* the Long Lake#.
+====
+// end::slide[]
+
+// ---- EXPLANATION ----
+*THE PROBLEM*
+
+Each of these pieces of information about where the Arkenstone is looks really useful. But there are so many of them, piled on top of each other, that the reader gets tired and bogged down.
+
+*THE SOLUTION*
+
+Edit this sentence by cutting down the pile of information. Take it in stages:
+
+. Leave one phrase in the sentence. The point of that sentence is to tell the reader where to find the Arkenstone.
+. Make another sentence with the next piece of information. You're feeding your readers facts in bite-sized pieces.
+. Ask yourself how much detail your reader needs at this place in the document. If the section you're writing is about mounting an expedition to steal the Arkenstone, you may want to move on to who's going on the trip, what they're packing, and when they're leaving. You can put further details about the destination in an appendix, possibly in a more suitable form (like a map).
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+The Arkenstone is *on top of* the dragon's hoard. [.blue]#The hoard lies *under* the Lonely Mountain. For more information on the route, see the map in Appendix A.#
+====
+
+// end::slide[]
+
+'''
+// end::html[]

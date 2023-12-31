@@ -1,0 +1,44 @@
+= If there are conditions, put them first
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+Call the police [.red]#*if you know who killed Laura Palmer*#.
+====
+
+// ---- SLIDE 2 ----
+=== If there are conditions, put them first
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+Honestly, the title kind of says it all. But _why_ does this guideline exist?
+// tag::slide[]
+// ---- MORE SLIDE 2 ----
+====
+Call the police [.red]#*if you know who killed Laura Palmer*#.
+====
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+*THE PROBLEM*
+
+Suppose you have a reader who is in a hurry, and is following the instructions as they read them (and doesn't know who killed Laura Palmer). You've just told them to call the police, so they pick up the phone and dial the emergency number. When they read further and discover that the instruction to call wasn't meant for them, they're going to have to hang up.
+
+*THE SOLUTION*
+
+As the heading says, if there are conditions, put them first. That way a reader who doesn't know who killed Laura Palmer can skip the second half of the sentence and move on with the documentation.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+[.blue]#*If you're know who killed Laura Palmer,*# call the police.
+====
+
+// end::slide[]
+
+'''
+// end::html[]

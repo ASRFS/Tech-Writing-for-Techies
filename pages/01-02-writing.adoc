@@ -1,0 +1,67 @@
+= 01.02 Writing
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous: link:01-01-planning.html[Planning]
+:parent: link:00-00-course-overview.html[Course overview]
+:next: link:01-03-editing.html[Editing]
+endif::[]
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+'''
+endif::[]
+
+// First slide image, writing process introduction
+ifeval::["{ctag}" == "slide"]
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== WRITING
+image::hand-quill.png[,500,align="center"]
+
+== The writing process
+include::../content/modules/writing-process/planning/writing-steps.adoc[tag={ctag}]
+
+endif::[]
+
+// End slide - not used in the self-study pages.
+ifeval::["{ctag}" == "slide" ]
+== The goal
+include::../content/modules/writing-process/writing/writing-goal-0.adoc[tag={ctag}]
+endif::[]
+
+== The goal
+include::../content/modules/writing-process/writing/writing-goal.adoc[tag={ctag}]
+
+== Writing methods
+include::../content/modules/writing-process/writing/writing-methods.adoc[tag={ctag}]
+
+=== Outlining
+include::../content/modules/writing-process/writing/outlining.adoc[tag={ctag}]
+
+=== Brainstorming
+include::../content/modules/writing-process/writing/brainstorming.adoc[tag={ctag}]
+
+=== Free writing
+include::../content/modules/writing-process/writing/free-writing.adoc[tag={ctag}]
+
+== Getting unstuck
+include::../content/modules/writing-process/writing/unstuck.adoc[tag={ctag}]
+
+ifeval::["{ctag}" == "html"]
+== Exercise
+To practice what you've just learned, do the link:./writing-exercise.html[writing exercise].
+// Navigation
+include::./utilities/navigation-table.adoc[]
+endif::[]
+
+ifeval::["{ctag}" == "slide" ]
+// End slide - not used in the self-study pages.
+== Fin
+include::../content/modules/writing-process/writing/writing-fin.adoc[tag={ctag}]
+endif::[]

@@ -1,0 +1,63 @@
+= 03.01 Common English errors
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous:
+:parent: link:00-00-course-overview.html[Course overview]
+:next: link:03-02-articles.html[Articles]
+endif::[]
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+'''
+endif::[]
+
+// First slide image
+ifeval::["{ctag}" == "slide"]
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== ENGLISH USAGE PROBLEMS
+image::shakespeare-wrong.png["Line drawing of Shakespeare with his face upside down in his head.",400,align="center"]
+
+endif::[]
+
+ifeval::["{ctag}" != "slide"]
+include::../content/modules/english/errors/intro-errors.adoc[tag={ctag}]
+endif::[]
+
+== _Allows to_ isn't allowed
+include::../content/modules/english/errors/allows-to.adoc[tag={ctag}]
+
+== If you want to use _in case_
+include::../content/modules/english/errors/in-case.adoc[tag={ctag}]
+
+== Be bossy!
+include::../content/modules/english/errors/is-needed.adoc[tag={ctag}]
+
+== _Might_ and _may_
+include::../content/modules/english/errors/might-may.adoc[tag={ctag}]
+
+== Apples pie
+include::../content/modules/english/errors/apples-pie.adoc[tag={ctag}]
+
+== Simple presents are best
+include::../content/modules/english/errors/presents.adoc[tag={ctag}]
+
+== Capitalization
+include::../content/modules/english/errors/caps.adoc[tag={ctag}]
+
+ifeval::["{ctag}" != "slide" ]
+// Navigation
+include::./utilities/navigation-table.adoc[]
+endif::[]
+
+ifeval::["{ctag}" == "slide" ]
+// End slide - not used in the self-study pages.
+== Fin
+include::../content/modules/english/errors/errors-fin.adoc[tag={ctag}]
+endif::[]

@@ -1,0 +1,22 @@
+= Paragraphs
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+
+// tag::slide[]
+===== _Each paragraph should express only one idea._
+
+// tag::html[]
+
+[.ornamental]
+image::bricks.png["Image of a stone wall.",600,align="center"]
+
+// end::slide[]
+
+// Shared text between this section and editiing paragraphs in the writing process module.
+include::../../common/snippets/paragraphs-text.adoc[]
+
+'''
+
+// end::html[]

@@ -1,0 +1,80 @@
+= _Might_ and _may_
+:fragment:
+:imagesdir: ../images
+
+// tag::slide[]
+// ---- SLIDE 1 ----
+
+image::frog.png["Line drawing of a frog", 400]
+
+// ---- SLIDE 2 ----
+== _Might_ and _may_
+
+====
+*Unlikely:* The frog from the garden [.blue]#*might*# be poisonous.
+====
+
+// ---- SLIDE 3 ----
+== _Might_ and _may_
+
+====
+*Unlikely:* The frog from the garden [.blue]#*might*# be poisonous. +
+*Possible:* The frog from the garden [.blue]#*may*# pee on your hands.
+====
+
+// ---- SLIDE 4 ----
+== _Might_ and _may_
+
+====
+*Unlikely:* The frog from the garden [.blue]#*might*# be poisonous. +
+*Possible:* The frog from the garden [.blue]#*may*# pee on your hands. +
+*Certain:* The frog from the garden [.blue]#*will*# jump away if I let go of it.
+====
+
+// ---- SLIDE 5 ----
+== _Might_ and _may_
+// end::slide[]
+
+// ---- EXPLANATION 1 ----
+// tag::html[]
+
+English has different ways for talking about uncertain things. Which form you use depends on how likely the uncrtain thing is. You can think of them in ascending order of probability:
+
+// tag::slide[]
+====
+[.strike]#*Unlikely:* The frog from the garden *might* be poisonous.# +
+*Possible:* The frog from the garden [.blue]#*may*# pee on your hands. +
+*Certain:* The frog from the garden [.blue]#*will*# jump away if I let go of it.
+====
+// end::slide[]
+
+[.ornamental]
+image::frog.png["Line drawing of a frog", 400]
+
+As you can guess from what's crossed out, technical writing doesn't use all of these forms. 
+
+Documentation doesn't usually cover unlikely things. Otherwise, it ends up full of edge-case scenarios that are relevant to very few readers. Then most of the audience can't find the more directly relelvant content.
+
+Stick to content that you expect to happen (*will* or present tense) and that which you wouldn't be surprised to encounter (*may*).
+
+_Could/can/will_ has the same pattern. And like _might/may/will_, you should only use the likeliest two in technical writing:
+
+// tag::slide[]
+// end::html[]
+
+// ---- SLIDE 6 ----
+== _Could_ and _can_
+
+// tag::html[]
+
+====
+*Unlikely:* [.strike]#The toad you found *could* make you hallucinate.# +
+*Possible:* The toad you found [.blue]#*can*# pee on your hands. +
+*Certain:* The toad you found [.blue]#*will*# jump away if you let go of it.
+====
+
+// end::slide[]
+
+'''
+
+// end::html[]

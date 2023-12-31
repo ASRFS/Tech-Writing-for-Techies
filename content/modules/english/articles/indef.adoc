@@ -1,0 +1,25 @@
+= Indefinite: _a_ and _an_
+:fragment:
+:imagesdir: ../images
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::uno.png["Image of the card game 'Uno and friends'.",,400,align="center"]
+
+// end::slide[]
+
+If the definite article [.blue]#*the*# is _this/these_ or _that/those_ minus *location*, then [.blue]#*a*# and [.blue]#*an*# are [.blue]#*the*# without *specificity*. This is why they're called __in__definite articles.
+
+OK, you ask, but what's left?
+
+First of all, there's *quantity*: _a_ and _an_ are always singular. But more significanty, the indefinite article tells you that *the speaker _can't_ point at what they're talking about*, and you're not expected to either.
+
+Fittingly, many European languages use an  unstressed version of the word _one_ to mean [.blue]#*a*#.
+
+'''
+// end::html[]

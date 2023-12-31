@@ -1,0 +1,25 @@
+= Editing paragraphs
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+
+// tag::slide[]
+===== _Each paragraph should express only one idea._
+
+// tag::html[]
+
+[.ornamental]
+image::bricks.png["Image of a stone wall.",600,align="center"]
+
+// end::slide[]
+
+// Shared text between this section and paragraphs in the editing deep dive module.
+include::../../common/snippets/paragraphs-text.adoc[]
+
+NOTE: You can read more about this in the link:./02-04-paragraphs-tables.html[paragraphs and tables] topic in the Editing deep-dive module.
+
+
+'''
+
+// end::html[]

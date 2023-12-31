@@ -1,0 +1,58 @@
+= Make list elements consistent
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+[cols="2",frame=none,grid=none]
+|===
+a|[.red]#There are rules for what you can have in your quarters:#
+
+* [.red]#no live tribbles#
+* [.red]#Sharp swords must have sheaths.#
+* [.red]#Nothing from Klingon or Romulan space#
+* [.red]#acoustic musical instruments only#
+|
+|===
+====
+// ---- SLIDE 2 ----
+=== Make list elements consistent
+
+// ---- EXPLANATION ----
+// end::slide[]
+// tag::html[]
+
+
+The second step in distinguishing your list items is to eliminate differences in how they are written. Inconsistent grammar and phrasing distract your reader from the ways the _content_ of the list items differs.
+
+// ---- MORE SLIDE 2 ----
+// tag::slide[]
+====
+[cols="2",frame=none,grid=none]
+|===
+a|[.red]#There are rules for what you can have in your quarters:#
+
+* [.red]#no live tribbles#
+* [.red]#Sharp swords must have sheaths.#
+* [.red]#Nothing from Klingon or Romulan space#
+* [.red]#acoustic musical instruments only#
+a|[.blue]#The following possessions are forbidden in crew quarters:#
+
+* [.blue]#Live tribbles#
+* [.blue]#Sharp swords without sheaths#
+* [.blue]#Anything from Klingon or Romulan space#
+* [.blue]#Amplified musical instruments#
+|===
+====
+// end::slide[]
+
+// ---- MORE EXPLANATION ----
+
+The first example has both positive and negative elements. Some of the items are complete sentences and others aren't. This chaos makes it difficult to create a clear introduction. Crew members can have lots of things in their quarters, including furniture, roommates, air, and parties. What is this list really talking about?
+
+Putting all of the list items into the same form emphasises their content differences. It also leads to a clearer introductory sentence.
+
+'''
+
+// end::html[]

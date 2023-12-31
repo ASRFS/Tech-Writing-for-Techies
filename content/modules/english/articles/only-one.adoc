@@ -1,0 +1,74 @@
+= There's only one
+:fragment:
+:imagesdir: ../images
+
+
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::universe.png["A picture of outer space.",,400,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+Your audience will be able to point to something if there's only one of it. If it's unique, it's _definitely_ specific. But very few things are completely unique in the entire universe.
+
+That's OK, because for writing, uniqueness depends on *scope*. The question isn't what's unique in the entire universe.
+It's just what's unique in the context within which you're writing.
+
+So to understand specificity, you have to think about scope.
+A few notes:
+
+* The English language actually assumes a scope of _the world_ rather than the universe. When the language evolved, people didn't know there were other planets. So it's assumed that there's only one sky and one ground, unless you're being poetic or explicitly writing about other worlds.
+* Geography and culture create their own scopes. If were to say "the king" in Amsterdam, I probably mean Willem-Alexander. If I say it in London, people will assume I mean Charles III. And if say it in in Las Vegas, it's Elvis. Each place has its own king who needs no explanation.
+* Writing creates its own scopes:
+** The whole body of work is a scope.
+** The whole document is a scope.
+** Each individual section is a scope.
+* Every thing you write about has its own inherent scope. So you have to think about uniqueness _within the scope of that item_.
+** For example, a car has only one speed at any given time. So if you know what car we're talking about (scope), and we assume we're talking about the present (more scope), its speed is unique. Specific.
+** Likewise, if a function call takes only one string, that string is specific in the scope of the call. If your readers know which function you're discussing, they can point to the only string it takes.
+
+'''
+// end::html[]
+
+// ---- A WHOLE LITTLE SLIDESHOW HERE ----
+// tag::slide[]
+=== There's only one (in scope)
+image::earth.png["The earth",,400,align="center"]
+
+=== There's only one (in scope)
+
+[cols="3",frame=none,grid=none]
+|===
+|
+a| image::willem-alexander.png["Willem-Alexander, King of the Netherlands", align="center"]
+|
+|===
+
+=== There's only one (in scope)
+
+[cols="3",frame=none,grid=none]
+|===
+a| image::charles-III.png["Charles III, King of England", align="center"]
+a| image::willem-alexander.png["Willem-Alexander, King of the Netherlands", align="center"]
+|
+|===
+
+=== There's only one (in scope)
+
+[cols="3",frame=none,grid=none]
+|===
+a| image::charles-III.png["Charles III, King of England", align="center"]
+a| image::willem-alexander.png["Willem-Alexander, King of the Netherlands", align="center"]
+a| image::elvis.png["Elvis Presley", align="center"]
+|===
+
+=== There's only one (in scope)
+
+image::car-target.png["A single car with a target on it.",,400,align="center"]
+
+// end::slide[]

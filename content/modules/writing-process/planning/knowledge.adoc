@@ -1,0 +1,43 @@
+= Knowledge
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::brain.png["Line drawing of a brain",400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+You also need to think about your audience in terms of their knowledge. There are three kinds of knowledge to consider.
+
+What they don't know:: You know your subject. Unfortunately, it can be easy to forget how it feels not to know it. But as a writer, you need to put yourself in the shoes of your audience, to meet them where they are. That includes remembering and respecting their _lack of knowledge_. (That lack is what makes them your audience, after all.)
+
+What they should know:: Also known as _assumed knowledge_. This is the fundamental knowledge they need to have, or they're not your audience. For example, the programming language you're working with.
+
+What you hope they know:: Limited, clearly-defined things that are specific to your topic. If they don't know it, they can look it up fairly easily. Things like:
+
+* Domain-specific knowledge
+* Specialized vocabulary or special meanings of common terms
+* Standards and conventions
+
+You don't have to _explain_ these things. Provide good search terms or links to reliable sources and let your readers find them on their own.
+
+
+[NOTE]
+====
+Your documentation won't teach your readers everything. You'll have to draw the line between what you plan to teach them and what you won't.
+
+For instance:
+
+* Things that are confidential/trade secrets.
+* Things that are not relevant to their goals.
+* Hidden details, such as implementation details or the inner workings of algorithms.
+
+====
+
+'''
+
+// end::html[]

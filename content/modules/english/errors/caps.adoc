@@ -1,0 +1,52 @@
+= Capitalization
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+// tag::html[]
+[.ornamental]
+image::shift.png["Image of a shift key",600,align="center"]
+
+// end::slide[]
+
+Every language has its own quirks around capitalization. Some things, like names of people and places, are capitalized pretty much everywhere. Other things vary from language to language.
+
+// end::html[]
+
+// ---- SLIDE 2 ----
+// tag::slide[]
+=== Capitalization
+
+// tag::html[]
+
+====
+Things that are capitalized in English (but not in some other languages):
+
+* _I_
+* Day and month names
+* Language and country names
+====
+
+// end::html[]
+// ---- SLIDE 3 ----
+=== Capitalization
+
+// end::slide[]
+
+// tag::html[]
+Too much capitalization can be a problem:
+
+// tag::slide[]
+====
+Things that are _not_ capitalized in English (but are in some other languages):
+
+* The formal _you_
+* Normal nouns (words for a person, place, or thing)
+====
+// end::slide[]
+
+'''
+
+// end::html[]

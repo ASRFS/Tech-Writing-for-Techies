@@ -1,0 +1,37 @@
+= It's a specific group
+:fragment:
+:imagesdir: ../images
+
+
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::chess.png["Dark and light Lewis chessmen",,400,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+A _group_ of things can also be specific.
+
+You can determine if a group is specific by thinking about what's in them and what's out of it. Instead of pointing at one thing, you're drawing a circle around a defined group of things. If your reader can tell the difference between what's in and what's out of the group, then the group as a whole is specific.
+
+_She set up her chess pieces. *The* figurines felt cool in her hands._
+_The coffin contained dirt from Dracula's castle. *The* dirt smelled like bitter almonds._
+
+Ask yourself whether your readers can identify:
+
+* What is _in_ the group you're talking about:
+** _Her chess pieces_
+** _Dirt from Dracula's castle_
+* What otherwise similar items are _not in_ the group:
+** _Her opponent's chess pieces_
+** _Dirt from the garden center_
+
+If your readers can, then it's a specific group and you can use [.blue]#*the*# about the items in it.
+
+'''
+// end::html[]
+

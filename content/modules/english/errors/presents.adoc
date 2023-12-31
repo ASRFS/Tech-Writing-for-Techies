@@ -1,0 +1,70 @@
+= Simple presents are best
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+// tag::html[]
+
+[.ornamental]
+image::presents.png["A fancy and a simple present",300,align="center"]
+
+// end::html[]
+
+// ---- SLIDE 2 ----
+=== Simple presents are best
+
+// tag::html[]
+
+====
+The monster [.red]#*is lurking*# in the garbage masher. +
+====
+
+// end::slide[]
+
+// ---- EXPLANATION  1 ----
+English has too many kinds of present tense. Some of them are fancier than others.
+
+The *present progressive* (_is --ing_) is pretty fancy. It tells the reader that something is going on, and probably will keep going on.
+
+This fancy present is not usually used in technical documentation. Any time you see it, you can improve the sentence by changing it to the *simple present* (_--s_):
+
+// end::html[]
+
+// ---- SLIDE 3 ----
+// tag::slide[]
+=== Simple presents are best
+
+// tag::html[]
+
+====
+The monster [.red]#*is lurking*# in the garbage masher. +
+The monster [.blue]#*lurks*# in the garbage masher.
+====
+
+// end::slide[]
+
+*WHEN TO BREAK THIS [.strike]#RULE# GUIDELINE*
+
+There is one case when the present progressive is necessary: after _while_, used to describe a period of time.
+
+// end::html[]
+// tag::slide[]
+
+// ---- SLIDE 4 ----
+=== Simple presents are (usually) best
+
+// tag::html[]
+====
+Don't go into the garbage masher [.blue]#_while_ the monster *is lurking* there.#.
+====
+// end::slide[]
+
+[NOTE]
+====
+This is different than link:./02-02-sentences.html#_write_active_sentences[_passive verbs_], which are *is/are lurk_ed_*.
+====
+
+
+'''
+// end::html[]

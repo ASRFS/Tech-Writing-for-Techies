@@ -1,0 +1,27 @@
+= Get some distance
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::redcord.png["Image of two people connected by a red cord. One of them has scissors ready to cut it.",align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+The first thing to do when it's time to edit is _something completely different_.
+
+When you write something, you form a connection to it. You need to break that connection. Otherwise you'll only see what you _meant_ to write, not what's actually there. You can't fix what you can't see.
+
+Some ways to get that distance:
+
+* Give it time. Set the writing aside overnight. Or at least eat something or take a walk.
+* Change the medium. Print it out, read it aloud, look at it on your phone, change the font.
+* Read it backwards. Start with the conclusion and read toward the introduction.
+
+(You may notice that there's some overlap with the suggestions for link:./01-02-writing.html#_getting_unstuck[getting unstuck while writing]. Both are ways of breaking an emotional connection that's in the way of what you want to do.)
+
+'''
+// end::html[]

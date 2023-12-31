@@ -1,0 +1,21 @@
+= Tech Writing for Techies
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+== About this course
+include::../content/modules/common/course/about-course.adoc[tag={ctag}]
+
+== Course structure
+include::../content/modules/common/course/course-structure.adoc[tag={ctag}]
+
+ifeval::["{ctag}" == "html"]
+== Links to all course materials
+include::../content/modules/common/course/course-links.adoc[tag={ctag}]
+endif::[]
+
+ifeval::["{ctag}" == "slide" ]
+// End slide - not used in the html pages.
+== Fin
+include::../content/modules/common/course/course-fin.adoc[tag={ctag}]
+endif::[]
+

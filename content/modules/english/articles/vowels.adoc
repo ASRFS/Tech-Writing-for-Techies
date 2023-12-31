@@ -1,0 +1,38 @@
+= Vowels
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+
+image::vowel-v.png["Flowchart, highlighting 'Vowel sound?'.",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+
+[.ornamental]
+image::vowel-v-sm.png["Flowchart, highlighting 'Vowel sound?'.",300,align="center"]
+
+If you've gotten this far in the flowchart, you know that your noun is:
+
+* Non-specific
+* Countable
+* Singular
+
+That means it can take the _indefinite_ article, the thing descended from the word _one_. Your last decision is between [.blue]#*a*# and [.blue]#*an*#.
+
+Many people think that that if a word (or acronym^1^ or initialism^2^) begins with a vowel (A, E, I, O, U), it takes [.blue]#*an*#. If it begins with a consonant (anything else), it takes [.blue]#*an*#.
+
+That's almost true. But really, the rule is:
+
+If a word (or acronym^1^ or initialism^2^) begins with the *sound* of a vowel (A, E, I, O, U), it takes [.blue]#*an*#. If it begins with a the *sound* of a consonant (anything else), it takes [.blue]#*a*#. The choice depends not on how the word is _spelled_, but how it's _pronounced_. (This means you need to know how English, a language with some of the weirdest spelling in the world, is pronounced.)
+
+[.small]#1. A multi-word term whose first letters are pronounced like a word on their own. For example, _laser_, which stands for _light amplification by simulated emission of radiation_. +
+2. A multi-word term where the names of the first letters are said one after another. For example, _URL_, _uniform resource locator_.#
+
+'''
+
+// end::html[]

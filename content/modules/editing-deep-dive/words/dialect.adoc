@@ -1,0 +1,37 @@
+= English dialect
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+English has many dialiects, but for technical writing purposes, what really matters is whether you're writing in US English or UK (and Commonwealth) English. The difference to focus on between the two is spelling.
+
+// tag::slide[]
+
+[width=50%]
+|===
+| US English | UK English
+
+a| col**o**r
+a| col**ou**r
+
+a| cent**er**
+a| cent**re**
+
+a| initiali**z**e
+a| initiali**s**e
+|===
+
+// end::slide[]
+
+It's important to spell consistently throughout your documentation. Mixed-dialect documentation does more than just look inconsistent. It also breaks search functionality and leads to broken links. Your link:./00-01-key-concepts.html#_style_guides[style guide] should specify which dialect to write in.
+
+If your tooling includes spell checking or grammar checking set it to the correct dialect.
+
+This course uses US English.
+
+NOTE: If you're documenting software, be consistent with the dialect that the software itself is written in. Otherwise in-code terms such as variable and module names will look odd and break search.
+
+'''
+
+// end::html[]

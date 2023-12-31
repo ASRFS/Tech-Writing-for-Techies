@@ -1,0 +1,40 @@
+= Word and sentence exercise
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+*Rewrite the following first-draft sentences. You may need to change wording as well as structure.* +
+*Refer to the link:./words.html[words] and link:./sentences.html[sentences] self-study materials or hover over the HINTS links for help.*
+
+
+'''
+
+Circe was dumped by Odysseus, which really sucked for her. +
+link:./sentence-exercise.html["HINTS",title="Write active sentences; don't use slang; one idea per sentence."]
+
+
+Dr. Horrible did not design the Freeze Ray to be susceptible to water damage. Trying to freezerayify his sidekick Moist proved that it was not invulnerable. +
+link:./sentence-exercise.html["HINTS",title="Write positively; treat terms carefully."]
+
+Q-Division requires you to please fill out forms X-524, X-525, and X-527, which together make up the ACUT - the Application for Cross-Universe Travel. Bring the filled-out Application forms to the armory to receive your special equipment. +
+link:./sentence-exercise.html["HINTS",title="Don't use please; introduce terms; if it's a list, make it a list."]
+
+The honour of the neighbourhood at the centre of District 12 was defended by Katniss Everdeen, who volunteered for the role to protect her sister, who she felt was too young for the fight. +
+link:./sentence-exercise.html["HINTS",title="Use US English spelling; write active sentences; one idea per sentence."]
+
+The Beholder, which allows itself to be studied by a selected scientist, does so because it wants to study him back and, later, attack him. +
+link:./sentence-exercise.html["HINTS",title="Don't assume scientists are male; one idea per sentence."]
+
+The robot that violated the first law of robotics, which was owned by the Weston family, was certified as safe by Susan Calvin.​ +
+link:./sentence-exercise.html["HINTS",title="One idea per sentence; write active sentences."]
+
+The Sandman uses sand to send people to sleep. If someone is slumbering, the Sandman can enter into her dreams. +
+link:./sentence-exercise.html["HINTS",title="One idea, one word; don't assume sleepers are female."]
+
+The captaincy of the Enterprise was not accepted by Spock.​ +
+link:./sentence-exercise.html["HINTS",title="Write active sentences; write positive sentences."]
+
+Swearing and getting into street fights makes hair grow all over your body if you’re a werewolf.​ +
+link:./sentence-exercise.html["HINTS",title="Put conditionals first."]
+
+Tiuri was invited by Ristridin to hang out at his crib in the spring. +
+link:./sentence-exercise.html["HINTS",title="Write active sentences; don't use slang."]

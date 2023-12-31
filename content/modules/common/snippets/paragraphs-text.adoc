@@ -1,0 +1,12 @@
+//This content is published in two places, but there's no point writing it twice.
+Like sentences, first-draft paragraphs often go on and on, wandering from one topic to another. But in the final version, *each paragraph should relate to only one idea.*
+
+Build each paragraph like you'd build a brick wall:
+
+. Choose the components that fit. +
+The first step in building a wall is to make sure you have bricks of the same type. In the same way, the first step in constructing a paragraph is to make sure you have sentences about the same idea. Set aside any bricks or sentences that don't fit.
+
+. Arrange and connect them. +
+A pile of bricks is not a wall, and a collection of sentences is not a paragraph. The separate components have to be connected to form a coherent whole. The mortar of a paragraph is the connections between its sentences. This can be simple sentence order, or connective words and phrases.
+
+Then repeat the process with the sentences you set aside. If they have a place in your document, it's because they have their own separate idea or ideas.

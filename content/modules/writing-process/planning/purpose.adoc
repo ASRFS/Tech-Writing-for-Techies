@@ -1,0 +1,25 @@
+= Purpose
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::compassrose.png["Image of a hand-drawn compass rose.",400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+What is the purpose of your document? Can you state it in one sentence?
+
+* What are you explaining?
+* To whom?
+* So they can do what?
+
+You don't have to include it the documentation, but keep it in mind as you work. It's your North Star, your insurance against scope creep or topic drift.
+
+For instance: _This course teaches the basics of technical writing to people in different technical roles so that they can write better._
+
+'''
+// end::html[]

@@ -1,0 +1,29 @@
+= Writing steps
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+[%step]
+. Planning
+. Writing
+. Editing
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+[.ornamental]
+image::stairs.png["Top view of a spiral staircase",500,align="center"]
+
+Creating documentation is not simple. People rarely just sit down at a keyboard and type out the perfect document in one sitting. Writing is a _process_. Take it step by step.
+
+. *Planning*: This is where you make sure you won't have to task-switch later on. In the same way that you should check that you have all of the ingredients before you start cooking, use the planning stage to get everything ready before you start writing.
+. *Writing*: This is the most fragile step in the process. It's the one you don't want to interrupt with research, or with worrying about things you can fix later. In fact, splitting the process up into steps is mostly designed to protect this stage and reduce the chance of writer's block.
+. *Editing*: During the writing step, promise yourself that you'll fix your terrible prose later. Then at editing time, you can actually do those fixes. Editing is done in a series of methodical, achievable steps.
+
+
+'''
+
+// end::html[]

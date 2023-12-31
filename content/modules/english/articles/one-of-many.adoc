@@ -1,0 +1,26 @@
+= There are many, but this is mine
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::rock.png["Dog with a rock on its nose and the caption 'This is my rock. There are many like it but this one is mine.'",,400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Sometimes there's more than one of the same thing in scope. But then you choose one and point it out to your audience. It's like walking up to a car in a parking lot and saying "this is my car".
+
+Once it's been introduced, it becomes specific, because it's _the one that's been pointed out_.
+
+Common ways that things go from nonspecific to specific in writing:
+
+* Referring to them with _a_ immediately beforehand: _A man walked down the street_. No the audience knows which man, so you can go on with _The man doesn't speak the local language_.
+* Starting the discussion of them with phrases such as _there is_ or _there are_: _There is a house in New Orleans. The house has a bad reputation._
+
+'''
+
+// end::html[]

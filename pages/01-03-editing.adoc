@@ -1,0 +1,77 @@
+= 01.03 Editing
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous: link:01-02-writing.html[Writing]
+:parent: link:00-00-course-overview.html[Course overview]
+:next:
+endif::[]
+
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+endif::[]
+
+// First slide image, writing process introduction
+ifeval::["{ctag}" == "slide"]
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== EDITING
+image::hammer-saw.png[,500,align="center"]
+
+== The writing process
+include::../content/modules/writing-process/planning/writing-steps.adoc[tag={ctag}]
+
+endif::[]
+
+== The art of editing
+include::../content/modules/writing-process/editing/editing-intro.adoc[tag={ctag}]
+
+== Getting some distance
+include::../content/modules/writing-process/editing/distance.adoc[tag={ctag}]
+
+== Rewriting
+include::../content/modules/writing-process/editing/rewriting.adoc[tag={ctag}]
+
+=== Word choice
+include::../content/modules/writing-process/editing/editing-words.adoc[tag={ctag}]
+
+=== Sentences
+include::../content/modules/writing-process/editing/editing-sentences.adoc[tag={ctag}]
+
+=== Paragraphs
+include::../content/modules/writing-process/editing/editing-paragraphs.adoc[tag={ctag}]
+
+=== Using weasels
+include::../content/modules/writing-process/editing/weasels.adoc[tag={ctag}]
+
+== Structural review
+include::../content/modules/writing-process/editing/structure-review.adoc[tag={ctag}]
+
+== Proofreading
+include::../content/modules/writing-process/editing/proofreading.adoc[tag={ctag}]
+
+== Getting help
+include::../content/modules/writing-process/editing/beta-readers.adoc[tag={ctag}]
+
+== Finishing
+include::../content/modules/writing-process/editing/finishing.adoc[tag={ctag}]
+
+// Exercise - not used in the slide deck
+ifeval::["{ctag}" == "html" ]
+== Exercise
+To practice what you've just learned, do the link:./editing-exercise.html[editing exercise].
+// Navigation
+include::./utilities/navigation-table.adoc[]
+endif::[]
+
+ifeval::["{ctag}" == "slide" ]
+// End slide - not used in the self-study pages.
+== Fin
+include::../content/modules/writing-process/editing/editing-fin.adoc[tag={ctag}]
+endif::[]

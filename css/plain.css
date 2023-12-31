@@ -1,0 +1,82 @@
+/* Based on the Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+
+@import url(//fonts.googleapis.com/css?family=Noto+Sans);
+@import url(https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@2.0/data/stylesheets/asciidoctor-default.css); /* Default asciidoc style framework - important */
+
+/* CUSTOMIZATIONS */
+/* Change the values in root for quick customization. If you want even more fine grained... venture further. */
+:root{
+--maincolor:#FFFFFF;
+--primarycolor:#000000;
+--secondarycolor:#003366;
+--tertiarycolor:#CCCCCC;
+--sidebarbackground:#CACACA;
+
+--linkcolor:#0D47A1;
+--linkcoloralternate:#B71C1C;
+--white:#FFFFFF;
+--black:#000000;
+--thcolor:#99ccff;
+}
+
+/* Text styles */
+
+body{font-family: "Noto Sans",sans-serif;background-color: var(--maincolor);color:var(--black);}
+
+h1{color:var(--primarycolor) !important;font-family:"Noto Sans",sans-serif;}
+h2,h3,h4,h5,h6{color:var(--secondarycolor) !important;font-family:"Noto Sans",sans-serif;}
+.title{color:var(--black) !important;font-family:"Noto Sans",sans-serif;font-style: normal; font-weight: normal;}
+a{text-decoration: none;}
+p{font-family: "Noto Sans",sans-serif ! important}
+#toc.toc2 a:link{color:var(--linkcolor);}
+blockquote{color:var(--secondarycolor) !important}
+.quoteblock{color:var(--black)}
+.quoteblock blockquote:before{color:var(--black)}
+code{color:var(--white);background-color: var(--secondarycolor) !important}
+mark{background-color: var(--tertiarycolor)} /* Text highlighting color */
+
+/* Table styles */
+th{background-color: var(--thcolor);color:var(--black) !important;}
+td{background-color: var(--maincolor);color: var(--black) !important}
+
+
+#toc.toc2{background-color:var(--maincolor);}
+#toctitle{color:var(--primarycolor);}
+
+/* Additions */
+.ornamental {
+  float: right;
+  width: 30%;
+  padding: 10px;
+  vertical-align: top;
+}
+
+.strike {
+  text-decoration:line-through;
+  text-decoration-color: red;
+}
+
+.exampleblock,
+.exampleblock .content,
+.exampleblock .tableblock {
+  background:#ffffd8;
+}
+
+ol > li p, ul > li p, ul dd, ol dd, .olist .olist, .ulist .ulist, .ulist .olist, .olist .ulist {
+    margin-bottom: 0em;
+}
+
+/* Overriding extra line & padding between h1 and h2 content */
+.sect1{padding-bottom:0em}
+.sect1+.sect1{border-top:none}
+
+/* Responsiveness fixes */
+video {
+  max-width: 100%;
+}
+
+@media all and (max-width: 600px) {
+table {
+  width: 55vw!important;
+  font-size: 3vw;
+}

@@ -1,0 +1,42 @@
+= Keep terms in their original forms
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+*USING THE NEURALIZER* +
+Always [.red]#*neuralize*# civilians if they've witnessed an alien event.
+====
+
+// ---- SLIDE 2 ----
+=== Keep terms in their original forms
+// tag::html[]
+====
+*USING THE NEURALIZER* +
+Always [.red]#*neuralize*# civilians if they've witnessed an alien event.
+====
+// ---- MORE OF SLIDE 2 ----
+// end::slide[]
+// ---- EXPLANATION ----
+*THE PROBLEM*
+
+If you introduce a term in one form, then use it in another, the reader has to do some mental work to follow the transition. Sometimes it's a small transformation and not much work. Other times, your reader can barely figure out what you mean. But it's all cognitive load.
+
+It also affects search results and adds a maintenance problem. If your company switches from the Neuralizer to the Brain-E-Race, updating your documentation is harder and more error-prone..
+
+*THE SOLUTION*
+
+Treat terms the way you'd treat the names of people: spell them correctly and consistently. Only use them in their original (canonical) form.
+
+Unsurprisingly, your word list will help you with this.
+// tag::slide[]
+====
+*USING THE NEURALIZER* +
+Always [.blue]#*erase civilians' memory with the Neuralizer*# if they've witnessed an alien event.
+====
+// end::slide[]
+
+'''
+
+// end::html[]

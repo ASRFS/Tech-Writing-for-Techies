@@ -1,0 +1,21 @@
+= Good techical writing
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::good-tech-writing.png["Two images of Ahsoka. One looks disapproving beside the text 'Good technical writing follows all the rules'. The other looks approving beside the text 'Good technical writing communicates with the audience.'",,400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+In secondary school, your teachers probably taught you lots of grammar rules, and graded you on how well you followed them.
+
+But now you're in the real world, and the goal of writing is no longer to get good grades. Writing is a tool, the means to an end. And that end is _getting information from your brain into your reader's brain_.
+
+Good technical writing is writing that communicates.
+
+'''
+// end::html[]

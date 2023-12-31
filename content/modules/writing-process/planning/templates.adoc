@@ -1,0 +1,27 @@
+= Templates and structure
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::frame.png["Image of the internal metal frame of a building under construction.",,400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+Documentation needs good, consistent structure.
+
+* A *good* structure reduces the reader's cognitive load by introducing the right information at the right times.
+* A *consistent* structure teaches the reader how to find everything, then uses that knowledge on throughougt the documentation.
+
+If you're *updating an existing document*, make sure you work with the structure that's already there. Are you adding the information in the right place? Is it at the same level of detail as the other items that are described in the same section? You may need to add information in more than one place, with different levels of detail or different things being emphasized.
+
+If you're *writing a new document*:
+
+* Is there a known template to use? Do you have the latest version of it?
+* Is there an example of the kind of document you are trying to write? Can you re-use its structure?
+
+'''
+// end::html[]

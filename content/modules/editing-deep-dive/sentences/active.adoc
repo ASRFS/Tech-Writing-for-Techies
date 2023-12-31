@@ -1,0 +1,53 @@
+= Write active sentences
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+The Death Star [.red]#*was destroyed by*# the Rebellion.
+====
+
+// ---- SLIDE 2 ----
+=== Write active sentences
+
+// ---- EXPLANATION  1 ----
+// tag::html[]
+====
+The Death Star [.red]#*was destroyed by*# the Rebellion.
+====
+// end::slide[]
+*THE PROBLEM*
+
+English's natural word order is the [.green]#*subject*# (the person or thing that does the action), followed by the [.purple]#*verb*# (the action word), then everything else after that.
+
+The sentence above doesn't follow that natural order. The subject is not _The Death Star_, but _the Rebellion_. It was the Rebellion that did the destroying. But the reader has to wait for the end of the sentence for that. Waiting until the end to find out _whodunnit_ works in mystery novels. But in technical writing, it's more cognitive load.
+
+The marker of this kind of sentence is a _passive_ [.purple]#*verb*#, a verb that says that the Death Star was just hanging around in space, minding its own business, until destruction happened to it. Passive verbs generally use the form _[is/was/be] verbed by_: was called by, is used by, can be supplied by.
+
+Sometimes there is no _by_. Passive sentences are also used to hide who did a thing. Politicians love this: _Mistakes were made_, they say, and it's a complete sentence. It's just not a sentence that tells the reader who made those mistakes (*spoiler*: it's usually the speaker).
+
+*THE SOLUTION*
+
+Find out who actually did the thing and put them first. The verb will then move into the _active_ form: called, uses, can supply, destroyed.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+The Rebellion [.blue]#*destroyed*# the Death Star.
+====
+// end::slide[]
+
+// ---- EXPLANATION 2 ----
+*WHEN TO BREAK THIS [.strike]#RULE# GUIDELINE*
+
+Now you know the rule. But remember link:../00-01-key-concepts.html#_rule_zero[Rule Zero]: sometimes clear writing breaks writing guidelines.
+
+There are two cases where a passive sentence is better than an active one:
+
+* When the _topic_ of the sentence&mdash;what the sentence is about&mdash;is not its grammatical _subject_. If I'm writing a history of planet-destroying space stations, I'm more likely to use the first sentence, because the reader's focus is on the Death Star.
+* When mentioning who did the action will distract the reader. "An error was detected" tells the reader everything they need to know. Saying that _the system_ detected the error tempts the reader to think about the system as well as the error. But it's the error that's important.
+
+'''
+
+// end::html[]

@@ -1,0 +1,17 @@
+= Writing exercise
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|image::jacket.png["Line drawing of a suit jacket",50%,,align="right"]
+a|image::jacket2.png["Line drawing of a zip-up jacket",50%,,align="left"]
+|===
+
+Using the planning work you did for the link:./planning-exercise.html[planning exercise], spend *no more than 15 minutes* writing instructions on _putting on a jacket_ for your chosen audience.
+
+If you're not satisfied with your planning, you can use the link:./sa-planning.html[planning sample answer] as a basis instead.
+
+*Write using a link:./01-02-writing.html#_writing_methods[method] that you don't usually use.* This is your chance to try something new. Maybe it won't work, but maybe you'll find a whole new way of writing.
+
+'''

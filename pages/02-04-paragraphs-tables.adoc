@@ -1,0 +1,58 @@
+= 02.04 Paragraphs and Tables
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous: link:02-03-lists-instructions.html[Lists and instructions]
+:parent: link:00-00-course-overview.html[Course overview]
+:next:
+endif::[]
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+'''
+endif::[]
+
+// First slide image, editing introduction
+ifeval::["{ctag}" == "slide"]
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== PARAGRAPHS AND TABLES
+image::wall-table.png["Image of a tiny brick wall on a garden table.",500,align="center"]
+
+== Editing
+include::../content/modules/writing-process/editing/editing-intro.adoc[tag={ctag}]
+
+endif::[]
+
+== Paragraphs
+include::../content/modules/editing-deep-dive/paragraphs/paragraphs.adoc[tag={ctag}]
+
+=== One idea per paragraph
+include::../content/modules/editing-deep-dive/paragraphs/one-idea.adoc[tag={ctag}]
+
+=== Connect the sentences
+include::../content/modules/editing-deep-dive/paragraphs/connections.adoc[tag={ctag}]
+
+== Tables
+ifeval::["{ctag}" == "slide"]
+image::stacked-tables.png["Image of stacking tables.",500,align="center"]
+endif::[]
+
+=== If it's a table, make it a table
+include::../content/modules/editing-deep-dive/tables/tables.adoc[tag={ctag}]
+
+ifeval::["{ctag}" != "slide" ]
+// Navigation
+include::./utilities/navigation-table.adoc[]
+endif::[]
+
+ifeval::["{ctag}" == "slide" ]
+// End slide - not used in the self-study pages.
+== Fin
+include::../content/modules/editing-deep-dive/paragraphs/paragraphs-fin.adoc[tag={ctag}]
+endif::[]

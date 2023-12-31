@@ -1,0 +1,25 @@
+= Singular
+:fragment:
+:imagesdir: ../images
+
+
+// ---- SLIDE ----
+// tag::slide[]
+
+// full flowchart image
+image::singular-v.png["Flowchart, highlighting 'Singular?'.",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+// cropped flowchart image
+[.ornamental]
+image::singular-v-sm.png["Flowchart, highlighting 'Singular?'.",300,align="center"]
+
+So if a thing is countable, the next thing to do is count it. You don't even have to count that high; if you get past _one_ you have your answer.
+
+'''
+
+// end::html[]

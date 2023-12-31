@@ -1,0 +1,351 @@
+= Auto-Animate
+:source-highlighter: highlight.js
+:revealjsdir: ../reveal.js
+:revealjs_hash: true
+
+++++
+<style>
+.highlight {
+    color: gold;
+}
+</style>
+++++
+
+== Description
+
+[.small%hardbreaks]
+_reveal.js_ can automatically animate elements across slides.
+Use `[%auto-animate]` on two (or more) adjacent sections:
+
+[source,asciidoc]
+----
+[%auto-animate]
+== Title
+
+This is a paragraph.
+
+[%auto-animate]
+== Title
+
+This is a paragraph.
+
+This is another paragraph.
+----
+
+[%auto-animate]
+== Title
+
+This is a paragraph.
+
+[%auto-animate]
+== Title
+
+This is a paragraph.
+
+This is another paragraph.
+
+[%auto-animate]
+== !
+
+Matched element will be animated automatically!
+
+[%auto-animate]
+== !
+
+[.highlight]
+Matched element will be animated automatically!
+
+And move to the right position!
+
+[%hardbreaks]
+⬆️
+⬆️
+⬆️
+
+== Source Blocks
+
+reveal.js supports animation between code blocks.
+To enable this feature, all source blocks must have the same `data-id` value.
+
+IMPORTANT: This feature is only supported when using Highlight.js as syntax highlighter and when the option `%linenums` is present.
+
+== Source Blocks
+
+Here's a simple example:
+
+[source.stretch%linenums,asciidoc]
+-----
+[%auto-animate]
+== !
+
+[source%linenums,js,data-id=hello]
+----
+console.log('Hello')
+----
+
+[%auto-animate]
+== !
+
+[source%linenums,js,data-id=hello]
+----
+console.log('Hello')
+console.log('Bonjour')
+----
+-----
+
+[%auto-animate]
+== !
+
+[source%linenums,js,data-id=hello]
+----
+console.log('Hello')
+----
+
+[%auto-animate]
+== !
+
+[source%linenums,js,data-id=hello]
+----
+console.log('Hello')
+console.log('Bonjour')
+----
+
+== Source Blocks
+
+And here's a more complex example...
+
+[%auto-animate]
+== !
+
+[source%linenums,js,data-id=planets]
+----
+let planets = [
+  { name: 'mars', diameter: 6779 },
+]
+----
+
+[%auto-animate]
+== !
+
+[source%linenums,js,data-id=planets]
+----
+let planets = [
+  { name: 'mars', diameter: 6779 },
+  { name: 'earth', diameter: 12742 },
+  { name: 'jupiter', diameter: 139820 }
+]
+----
+
+[%auto-animate]
+== !
+
+[source%linenums,js,data-id=planets]
+----
+let circumferenceReducer = ( c, planet ) => {
+  return c + planet.diameter * Math.PI;
+}
+
+let planets = [
+  { name: 'mars', diameter: 6779 },
+  { name: 'earth', diameter: 12742 },
+  { name: 'jupiter', diameter: 139820 }
+]
+
+let c = planets.reduce( circumferenceReducer, 0 )
+----
+
+[%auto-animate]
+== Easing
+
+[%hardbreaks.small]
+The attribute `auto-animate-easing` is used to control the speed of the transition.
+You can use any value supported by https://developer.mozilla.org/fr/docs/Web/CSS/transition-timing-function[transition-timing-function].
+
+For instance:
+[source,asciidoc]
+----
+[%auto-animate,auto-animate-easing="ease-in-out"]
+== Easing In Out
+----
+
+[%auto-animate,auto-animate-easing="ease-in-out"]
+== Easing In Out
+
+🏓 Ping?
+
+[%auto-animate,auto-animate-easing="ease-in-out"]
+== Easing In Out
+
+🏓 Ping?
+
+Pong! 🏓
+
+[%auto-animate,auto-animate-easing="ease-in-out"]
+== Easing In Out
+
+🏓 Ping?
+
+Pong! 🏓
+
+🏓 Ping?
+
+[%auto-animate,auto-animate-easing="ease-in-out"]
+== Easing In Out
+
+🏓 Ping?
+
+Pong! 🏓
+
+🏓 Ping?
+
+Pong! 🏓
+
+== Unmatched
+
+[.small]
+Determines whether elements with no matching `auto-animate` target should fade in.
+Set to `false` to make them appear instantly.
+
+For instance:
+
+[source,asciidoc]
+----
+[%auto-animate,auto-animate-unmatched=false]
+== Unmatched
+
+Introduction. (matched)
+
+[%auto-animate,auto-animate-unmatched=false]
+== Unmatched
+
+Introduction. (matched)
+
+This will be shown instantly ⚡ (unmatched)
+----
+
+[%auto-animate,auto-animate-unmatched=false]
+== Unmatched
+
+Introduction. (matched)
+
+[%auto-animate,auto-animate-unmatched=false]
+== Unmatched
+
+Introduction. (matched)
+
+This will be shown instantly ⚡ (unmatched)
+
+== Duration
+
+Animation duration in seconds.
+
+For instance:
+[source,asciidoc]
+----
+[%auto-animate,auto-animate-duration=5]
+== Duration
+----
+
+[%auto-animate,auto-animate-duration=5]
+== Duration
+
+This animation...
+
+[%auto-animate,auto-animate-duration=5]
+== Duration
+
+This animation...
+
+...will take 5 seconds! ⌚
+
+[%auto-animate]
+== Delay
+
+[.small]
+Animation delay in seconds (can only be set for specific elements, not at the slide level)
+
+For instance:
+[source,asciidoc]
+----
+[%auto-animate]
+== Lift Off
+
+Final countdown...
+
+[%auto-animate]
+== Lift Off
+
+Final countdown...
+
+[data-auto-animate-delay=1]
+3,
+[data-auto-animate-delay=2]
+2,
+[data-auto-animate-delay=3]
+1...
+[data-auto-animate-delay=4]
+Lift off! 🚀
+----
+
+[%auto-animate]
+== Lift Off
+
+Final countdown...
+
+[%auto-animate]
+== Lift Off
+
+Final countdown...
+
+[data-auto-animate-delay=1]
+3,
+[data-auto-animate-delay=2]
+2,
+[data-auto-animate-delay=3]
+1...
+[data-auto-animate-delay=4]
+Lift off! 🚀
+
+== Id and Restart
+
+When you want separate groups of auto-animated slides right next to each other you can use the `auto-animate-id` and `auto-animate-restart` attributes.
+
+== Id and Restart
+
+Two adjacent slides will only auto-animate if they have the same id or if both don't have one.
+
+== Id and Restart
+
+`auto-animate-restart` will prevent auto-animate between the previous slide even if they have the same id but _not_ between it and the next slide.
+
+[%auto-animate]
+== !
+
+First Item
+
+[%auto-animate]
+== !
+
+First Item
+
+Second Item
+
+[%auto-animate%auto-animate-restart]
+== !
+
+First Item
+
+Second Item
+
+Third Item (restart)
+
+[%auto-animate]
+== !
+
+First Item
+
+Second Item
+
+Third Item (restart)
+
+Fourth Item

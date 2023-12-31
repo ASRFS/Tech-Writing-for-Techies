@@ -1,0 +1,25 @@
+= Vertical scope
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::pancakes.png["Image of a stack of pancakes.",align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+One way to avoid writing too much is to understand what documents already exist, and how they relate to what you need to write. There may be a stack of documents on a given system, ranging from a high-level description for business users to very low-level detailed content aimed at developers.
+
+Know what documents are above and below the one you're working on. For each of them, be aware of:
+
+* _Their_ scope, so what you write integrates smoothly with them. You don't want to leave a gap for your readers to fall into, or duplicate content that you then have to maintain.
+* The mental models and vocabulary they use. Even if you use different ones, you need to be compatible with them
+* Where they are, so you can link to them. Think about permissions here: are they available to your audience?
+
+CAUTION: Each "layer" of the documentation on your subject, including the one you write, should be able to stand on its own. You can _refer to another document for extra information_ but don't _depend on it for necessary information_.
+
+'''
+// end::html[]

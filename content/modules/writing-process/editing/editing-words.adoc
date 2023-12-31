@@ -1,0 +1,31 @@
+= Editing words
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+===== _Each word should mean one and only one thing._
+
+// tag::html[]
+
+[.ornamental]
+image::cutlery.png["Image of combined and separate cutlery.",700,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+While editing, look very closely at your word choices. What words are you using? Why are you using them?
+
+Your goal is that *each word should mean one and only one thing*.
+
+* Don't use a single word to mean more than one thing. Otherwise your reader has to guess which one you mean at any given time.
+* Don't use more than one word to refer to the same concept. Pick one and stick to it. Otherwise your readers may wonder why you've changed terms. They may even invent reasons and confuse themselves.
+
+Both of these failure modes (puzzling over _which thing_ you mean and seeking distinctions you _didn't_ mean) create link:./00-01-key-concepts.html#_cognitive_load[cognitive load] for your readers. They make your writing harder to understand.
+
+Remember to update your link:./01-01-planning.html#_word_list[word list] as you make these changes.
+
+NOTE: You can read more about this in the link:./02-01-words.html[words] topic in the Editing deep-dive module.
+
+'''
+// end::html[]
+

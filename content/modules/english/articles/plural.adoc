@@ -1,0 +1,33 @@
+= Plural
+:fragment:
+:imagesdir: ../images
+
+
+// ---- SLIDE ----
+// tag::slide[]
+
+image::singular-v--.png["Flowchart, highlighting 'Singular?' and '---'",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+
+[.ornamental]
+image::irises.png["Image of 'Irises' by Vincent van Gogh",,200,align="center"]
+
+If you counted your non-specific item and you got past _one_, you've established that:
+
+* Its non-specific nature means you can't use [.blue]#*the*#.
+* The fact that there's more than one means you can't use words derived from _one_ such as [.blue]#*a*# or [.blue]#*an*#.
+
+This means that you don't use an article.
+
+NOTE: In the messy way of languages, this is the same as if the noun was uncountable. For example, if you're talking about "irises", but can't explain _which_ irises you're talking about, how is that different than discussing the abstract, uncountable idea of irises?
+
+If you only have one non-specific item, go on to the last test.
+
+'''
+
+// end::html[]

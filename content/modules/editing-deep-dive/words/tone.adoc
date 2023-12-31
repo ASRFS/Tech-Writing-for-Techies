@@ -1,0 +1,33 @@
+= Getting tone right
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+[%step]
+* Yeet the slang.
+* Eschew excessively abstruse vocabulary.
+* _Just_ don't say _easy_. It's _simple_!
+* No need for _please_.
+* _It's_ OK to use contractions, but _don't_ overdo it.
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+[.ornamental]
+image::fellow-kids.png["An adult (actor Steve Buscemi) dressed as a teenager, captioned 'How do you do, fellow kids?'",500,align="left"]
+
+Writing does more than convey information. Its tone tells the reader who you are (formal or friendly?). And tone can affect cognitive load. A few basic rules for getting tone right:
+
+Yeet the slang:: Slang doesn't travel or age well. What's clever and amusing for one audience, in one place and at one time, is just embarrassing elsewhere. (It can also be actively offensive.)
+Eschew excessively abstruse vocabulary.:: _Avoid overly rare words_.
+_Just_ don't say _easy_. It's _simple_!:: It's tempting to reassure your readers that what you're talking about isn't difficult. But you won't always know what those readers find difficult. If they can't do or understand something that you say is _easy_ (for example, because the configuration instructions weren't clear), they're going to feel judged. +
+Show them that something is easy by writing about it clearly.
+No need for _please_.:: You want your readers to do things, so surely telling them to _please_ do it is good, right? +
+Not really. Asking someone to _please_ do things is a personal request. It can feel too personal. Give your readers a little more space. You can tell them what to do without begging.
+_It's_ OK to use contractions, but _don't_ overdo it.:: This depends on your style guide, tone, and audience. But if your writing is sounding stiff and robotic, consider using contractions. Particularly useful are the negative ones, such as _doesn't/don't_, _can't_, and _shouldn't_.+
+Note that contractions aren't appropriate in very formal documents. And never smush more than two words together (_shouldn't've_).
+
+'''
+// end::html[]

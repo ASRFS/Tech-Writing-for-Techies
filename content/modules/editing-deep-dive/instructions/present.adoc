@@ -1,0 +1,38 @@
+= Write in the present
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+After you take the red pill, the Matrix [.red]#*will eject*# you.
+====
+
+// ---- SLIDE 2 ----
+=== Write in the present
+// tag::html[]
+====
+After you take the red pill, the Matrix [.red]#*will eject*# you.
+====
+// end::slide[]
+
+// ---- EXPLANATION ----
+Normally, if you write about the result of something that happens in the present, you use future verbs.
+
+But instructions aren't normal, because as the reader moves forward through them, their "present" changes. And once those readers are at step two, they're in the "future" that you described after step one. How do you move them even further through time? English doesn't have future-of-the-future verb forms.
+
+Instead, when you're writing instructions, keep your readers in an eternal present.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+After you take the red pill, the Matrix [.blue]#*ejects*# you.
+====
+// end::slide[]
+
+NOTE: If something is in the real, verifiable future, like in the year 2050, go ahead and use the future tense. The eternal present is for timeless information.
+
+
+'''
+
+// end::html[]

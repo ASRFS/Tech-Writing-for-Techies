@@ -1,0 +1,130 @@
+= Formatting list items
+:fragment:
+:imagesdir: ../images
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+The third part of emphasizing content differences between list items is the most superficial: formatting the items consistently. How you format the items depends on your style guide. If you don't have one, this is a good approach:
+
+*Capitalization*: Start each list item with a capital letter. Otherwise, if some words are naturally capitalized and some aren't, the list looks ragged.
+
+// end::html[]
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+=== Formatting list items
+==== Capitalization
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a| The broom was overloaded with cargo and passengers:
+
+* Gigi the cat
+* [.red]#a# toy black cat in a cage
+* Kiki
+* [.red]#a# fish casserole
+a| &nbsp;
+|===
+====
+
+// ---- SLIDE 2 ----
+=== Formatting list items
+==== Capitalization
+
+// tag::html[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a| The broom was overloaded with cargo and passengers:
+
+* Gigi the cat
+* [.red]#*a*# toy black cat in a cage
+* Kiki
+* [.red]#*a*# fish casserole
+a| The broom was overloaded with cargo and passengers:
+
+* Gigi the cat
+* [.blue]#*A*# toy black cat in a cage
+* Kiki
+* [.blue]#*A*# fish casserole
+|===
+====
+
+// end::slide[]
+
+*Punctuation*:
+
+* If list items are basically sentence-shaped, finish each item with a period.
+* If list items are single words or groups of words, don't put periods at the ends of any of them.
+
+// end::html[]
+
+// ---- SLIDE 3 ----
+// tag::slide[]
+
+=== Formatting list items
+==== Punctuation
+
+// tag::html[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a|*Either*: +
+[.green]#The _Wayfarer_ has many species on her crew:#
+
+* [.green]#Humans#
+* [.green]#Grum#
+* [.green]#Aandarisk#
+* [.green]#Sianat (paired)#
+
+a|*Or*: +
+[.purple]#A Sianat Pair is a special entity:#
+
+* [.purple]#It is a combination of a Sianat and its symbiont**.**#
+* [.purple]#It can navigate hyperspace**.**#
+* [.purple]#It follows certain rituals throughout its life**.**#
+
+|===
+====
+
+// end::html[]
+
+// ---- SLIDE 4 ----
+
+=== Formatting list items
+==== Punctuation
+
+// tag::html[]
+
+====
+
+[cols="1",frame=none,grid=none]
+|===
+a| *But not:* +
+The _Wayfarer_ has many species on her crew:
+
+* Humans [.red]#*,*#
+* Grum [.red]#*,*#
+* Aandarisk [.red]#*,* and#
+* Sianat (paired) [.red]#*.*#
+|===
+====
+
+// end::slide[]
+// ---- EXPLAINING THE NEGATIVE CASE ----
+
+Do _not_ punctuate your list items like they're a sentence falling down the page like a waterfall.
+
+This kind of list is hard to maintain well. Every time you add to, delete from, or rearrange it, you have to remember to update the punctuation.
+
+
+NOTE: _Consistency_ is more important than any of these rules. If an existing document punctuates lists one way, keep doing that, even if it breaks the rules. Most readers aren't aware of the rules. But they may notice if your lists look wildly different.
+
+'''
+
+// end::html[]

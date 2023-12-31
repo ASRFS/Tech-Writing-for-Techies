@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    asciidoctor (2.0.20)
+    asciidoctor-diagram (2.2.14)
+      asciidoctor (>= 1.5.7, < 3.x)
+      asciidoctor-diagram-ditaamini (~> 1.0)
+      asciidoctor-diagram-plantuml (~> 1.2021)
+      rexml
+    asciidoctor-diagram-ditaamini (1.0.3)
+    asciidoctor-diagram-plantuml (1.2023.12)
+    asciidoctor-revealjs (5.1.0)
+      asciidoctor (>= 2.0.0, < 3.0.0)
+    json (2.7.1)
+    rexml (3.2.6)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  asciidoctor-diagram
+  asciidoctor-revealjs
+  json
+
+BUNDLED WITH
+   2.3.24

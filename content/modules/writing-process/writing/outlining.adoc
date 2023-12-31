@@ -1,0 +1,22 @@
+= Outlining
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+// tag::html[]
+
+[.ornamental]
+image::skelly.png["Image of a medical model of a skeleton with muscles on half of it.",300,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+In outlining, you start by establishing the structure of your writing first. Your outline becomes a kind of skeleton. Then you lay the flesh of your document over it, but the outline creates the shape.
+
+Your outline can be very detailed, or just a couple of layers deep. Points in your outline can be complete sentences or just a word or two. There's no single correct method: whatever works for you is good by definition.
+
+Writing with an outline means you always know what to write now and where you're going next. The technique also supports writing out of order. If one section is difficult to tackle at the moment, you know exactly what else there is to work on.
+
+'''
+
+// end::html[]

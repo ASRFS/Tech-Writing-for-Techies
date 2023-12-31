@@ -1,0 +1,15 @@
+= Editing exercise
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|image::jacket.png["Line drawing of a suit jacket",50%,,align="right"]
+a|image::jacket2.png["Line drawing of a zip-up jacket",50%,,align="left"]
+|===
+
+Using the draft you wrote in the link:./writing-exercise.html[last exercise], spend *no more than 15 minutes* editing your instructions on _putting on a jacket_ for your chosen audience.
+
+If you're not satisfied with your draft (for instance, if the writing technique you tried just didn't work), you can edit a link:./sa-writing.html[sample first draft] instead.
+
+'''

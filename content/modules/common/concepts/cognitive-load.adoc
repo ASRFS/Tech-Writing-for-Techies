@@ -1,0 +1,30 @@
+= Cognitive load
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+
+Cognitive load is probably the most important concept in technical writing. It's basically the work our readers have to do to learn from what we've written.
+
+// tag::slide[]
+
+_The mental effort required to learn new information_
+
+image::CLoad.png["Image of a measuring cup with three different layers. Each of them corresponds to one kind of cognitive load. Reading from the bottom, they are: Germane CL, Intrinsic CL, and Extraneous CL",,400,align="center"]
+
+[.small]
+[.text-right]
+(John Sweller, 1988, image via Wikipeda)
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+As technical writers, there's nothing we can do about the two bottom layers of the diagram. They're determined by the subject we're discussing and the nature of the human brain.  We can only control the top level, *extraneous cognitive load*: the load imposed by _how we present information_.
+
+Most technical writing rules are just well-tried ways of reducing extraneous cognitive load as much as possible, for as many people as possible. Because people are different, you can't make things easy for everyone. There is no perfect solution, just a lot of judgment calls.
+
+(You can, however, make it _difficult_ for everyone. Don't.)
+
+'''
+// end::html[]

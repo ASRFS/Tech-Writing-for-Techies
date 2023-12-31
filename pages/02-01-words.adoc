@@ -1,0 +1,77 @@
+= 02.01 Words
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous:
+:parent: link:00-00-course-overview.html[Course overview]
+:next: link:02-02-sentences.html[Sentences]
+endif::[]
+
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+'''
+endif::[]
+
+// First slide image, editing introduction
+ifeval::["{ctag}" == "slide"]
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== !
+image::wordle.png[,500,align="center"]
+
+== Editing
+include::../content/modules/writing-process/editing/editing-intro.adoc[tag={ctag}]
+
+endif::[]
+
+== Words matter
+include::../content/modules/editing-deep-dive/words/word-choice.adoc[tag={ctag}]
+
+=== Use a consistent dialect
+include::../content/modules/editing-deep-dive/words/dialect.adoc[tag={ctag}]
+
+=== One word, one meaning
+include::../content/modules/editing-deep-dive/words/single-meaning.adoc[tag={ctag}]
+
+=== One meaning, one word
+include::../content/modules/editing-deep-dive/words/single-word.adoc[tag={ctag}]
+
+=== Why are you using this term?
+include::../content/modules/editing-deep-dive/words/use-word.adoc[tag={ctag}]
+
+=== Keep terms in their original forms
+include::../content/modules/editing-deep-dive/words/original-forms.adoc[tag={ctag}]
+
+== Introduce new terms
+ifeval::["{ctag}" == "slide"]
+image::handshake.png["Handshake",500,align="center"]
+endif::[]
+
+=== New words
+include::../content/modules/editing-deep-dive/words/new-word.adoc[tag={ctag}]
+
+=== New abbreviations
+include::../content/modules/editing-deep-dive/words/new-abbrev.adoc[tag={ctag}]
+
+== Getting the tone right
+include::../content/modules/editing-deep-dive/words/tone.adoc[tag={ctag}]
+
+== Write neutrally
+include::../content/modules/editing-deep-dive/words/neutral.adoc[tag={ctag}]
+
+ifeval::["{ctag}" != "slide" ]
+// Navigation
+include::./utilities/navigation-table.adoc[]
+endif::[]
+
+ifeval::["{ctag}" == "slide" ]
+// End slide - not used in the self-study pages.
+== Fin
+include::../content/modules/editing-deep-dive/words/words-fin.adoc[tag={ctag}]
+endif::[]

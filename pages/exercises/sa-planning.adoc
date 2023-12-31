@@ -1,0 +1,33 @@
+= Planning sample answer
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|image::jacket.png["Line drawing of a suit jacket",50%,,align="right"]
+a|image::jacket2.png["Line drawing of a zip-up jacket",50%,,align="left"]
+|===
+
+*Instructions for a person from a culture that does not wear jackets.*
+
+== The reader
+
+What is the reader's goal?:: To be able to put on a jacket correctly before leaving the house.
+What does the reader know about jackets?:: That they're clothing, that they go on the upper body outside of other clothes.
+What does the reader _not_ know about jackets?:: What your choice of jacket says about you, the mechanical process of putting one on, the terms for the parts of a jacket.
+What of that will they need to know to put one on?:: The mechanical process and the terminology.
+What mental models do you use when you talk about jackets?:: Why to wear them: modesty, fashion, warmth. Putting one on using the model of putting on a shirt.
+Is your reader likely to share those models?:: I'm going to assume that the reader's culture also wears clothing for modesty, fashion, and warmth. So I can talk about how jackets address those goals. I'm going to assume that their culture does _not_ include shirt-like clothing. (For example, all clothing there is wrapped or draped and they don't have separate sleeves).
+
+== The document
+
+What is the purpose of this document?:: To be able to put on a jacket.
+What scope limitations might there be on this topic?:: What kind of jacket to put on (I'm going to assume a long-sleeved zip-up jacket with a hood.)
+What is the reader's starting point?:: The reader is otherwise dressed to go out. They are already holding a jacket that fits them and is in a state to be worn (it's clean, the zipper is not broken, etc.)
+What is the reader's end point? When are they "done"?:: The reader is ready to walk out of the door with the jacket on correctly and configured for the current weather (zipped or not, hood up or down).
+Are there other documents you might refer them to?:: The weather forecast, to decide how the jacket should be configured.
+Is there specialized vocabulary you want to use in this document?:: Names for parts of the garment, such as sleeve, cuff, collar, zipper, lining, hood, drawstring.
+
+link:./planning-exercise.html[Back to the planning exercise.]
+
+'''

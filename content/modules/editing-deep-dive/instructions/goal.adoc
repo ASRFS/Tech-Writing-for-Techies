@@ -1,0 +1,48 @@
+= Start with the user's goal
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a| [.red]#To use your SecUnit:#
+
+. Activate the unit on the local HubStream.
+. ...
+
+|
+|===
+====
+// ---- SLIDE 2 ----
+=== Start with the user's goal
+
+// tag::html[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a| [.red]#To use your SecUnit:#
+
+. Activate the unit on the local HubStream.
+. ...
+a| [.blue]#To defend the base during an attack:#
+
+. Activate your SecUnit on the local HubStream.
+. ...
+|===
+====
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+If you're writing about a tool or system, you may be tempted to give the reader instructions on using that tool. You're sending a Security Unit (SecUnit) to people on a far-off mining planet. You want to tell them how to use the SecUnit.
+
+But your readers aren't trying to use the SecUnit just because. They're not going to post _Achievement unlocked: Use the SecUnit_ on social media. They have a real-life goal in mind, something that matters to them. Your tool or system is just the means to that end.
+
+You have to step out of your own context and into theirs. What is the real problem they're trying to solve? The mining base is under attack. The SecUnit is the tool for defending the base. So start your instructions with the problem your readers are trying to solve, the goal they're trying to achieve.
+
+'''
+// end::html[]

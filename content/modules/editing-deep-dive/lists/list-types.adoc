@@ -1,0 +1,77 @@
+= Bullet or numbered?
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+==== Bullet lists
+===== _Lists that still make sense when you rearrange the items._
+
+====
+Aloy can override the programming on several creatures:
+
+* Striders
+* Grazers
+* Tallnecks
+
+====
+
+=== Bullet or numbered?
+==== Numbered lists
+===== _Lists where item order conveys information._
+
+====
+Let's do the Time Warp again:
+
+. Jump to the left.
+. Step to the right.
+. Put your hands on your hips.
+. Bring your knees in tight.
+
+====
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+The kind of list you use tells your users how important item order is. Only use a numbered list if the order of items matters. Otherwise, use a bullet list.
+
+
+[cols=2]
+|===
+| Bullet list | Numbered list
+
+| The list still makes sense if you rearrange the items.
+| Shuffling the list items destroys the logic or meaning.
+
+a| Aloy can override the programming on several creatures:
+
+* Striders
+* Grazers
+* Tallnecks
+a| Let's do the Time Warp again:
+
+. Jump to the left.
+. Step to the right.
+. Put your hands on your hips.
+. Bring your knees in tight.
+
+
+|===
+
+// ---- MORE EXPLANATION ----
+
+[NOTE]
+====
+Sometimes it's tempting to use a numbered list so that you can refer to individual list items lower down in your text (for example, to explain them at greater length). This is a bad idea:
+
+* If you change the list, you have to remember to change the reference numbers.
+* The specific numbers don't have any natural association with the content that you're referring to.
+
+A better way is to make a key term in the list item *bold*, then use that bold term in the text that refers back to the list. That way the linkage is natural, logical, and won't be broken by adding or rearranging items.
+
+====
+
+'''
+// end::html[]

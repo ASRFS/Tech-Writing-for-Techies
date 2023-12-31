@@ -1,0 +1,12 @@
+// Shared AsciiDoc attributes for exercise files.
+// Include this file in any file to be rendered.
+:imagesdir: ../../content/images
+:favicon: ../../content/images/favicon.ico
+// attributes for building the html pages
+:stylesheet: ../../css/plain.css
+:toc: left
+:toc-title: In this topic:
+:data-uri:
+:nofooter:
+// setting a ctag just as a default
+:ctag: html

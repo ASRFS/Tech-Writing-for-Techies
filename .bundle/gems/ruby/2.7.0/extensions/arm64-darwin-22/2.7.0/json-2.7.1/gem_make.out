@@ -1,0 +1,13 @@
+current directory: /Users/Abi/Documents/GitHub/Tech Writing for Techies/.bundle/gems/ruby/2.7.0/gems/json-2.7.1/ext/json
+/Users/Abi/.rvm/rubies/ruby-2.7.2/bin/ruby -I /Users/Abi/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20231231-1351-19h66ik.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Abi/Documents/GitHub/Tech Writing for Techies/.bundle/gems/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/Abi/Documents/GitHub/Tech Writing for Techies/.bundle/gems/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/Abi/Documents/GitHub/Tech Writing for Techies/.bundle/gems/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install

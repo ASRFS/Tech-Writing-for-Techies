@@ -1,0 +1,17 @@
+= Sheepinator exercise
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+
+_The following passage has a number of things wrong with it. Produce a better version._
+
+The MegaCorp Sheepinator is used to turn our enemies into sheep. It does not need any ammunition^1^. To use it, we simply point the muzzle in the direction of our enemy, pull the trigger, hold the orange beam on the target^2^, and wait for the progress bar to fill up^3^. Then our foe will become a harmless sheep. We can also lock on^4^ to our enemy before pulling the trigger, but this is not required. Large enemies can be sheepinated too. It will take more time than for small enemies. MegaCorp also offers a Black Sheepinator that makes the sheep explode after transformation.
+
+_Click link:hints-sheepinator.html[here] for a version with some hints._
+
+== Notes from a subject matter expert
+
+. Most weapons in this context _do_ use ammunition, which must be bought or scavenged. It's therefore notable that this one doesn't run out of ammo.
+. When the user pulls the trigger, an orange beam of light comes out of the muzzle of the weapon. After a time, this orange beam turns things into sheep.
+. The progress bar displays on the user's screen. This is known functionality and does not need to be explained.
+. Lock-on mode is available on many weapons. It is known functionality and does not need to be explained.

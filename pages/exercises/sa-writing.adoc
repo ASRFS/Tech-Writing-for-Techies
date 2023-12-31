@@ -1,0 +1,68 @@
+= Writing sample answer
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|image::jacket.png["Line drawing of a suit jacket",50%,,align="right"]
+a|image::jacket2.png["Line drawing of a zip-up jacket",50%,,align="left"]
+|===
+
+== Instructions for a person from a culture that does not wear jackets.
+_Writing technique: outlining_
+
+
+["upperroman"]
+. Introduction
+["upperalpha"]
+.. This document
+.. Jackets
+["arabic"]
+... Definition of the thing
+... Term definitions
+.. When/why are they worn?
+. Putting on a Jacket
+.. Starting conditions
+.. Orientation
+.. First sleeve
+.. Getting it over your shoulders
+.. Second sleeve
+.. Fastener(s)
+. Completion check
+
+'''
+
+=== Introduction
+
+This document has instructions for putting on a jacket, intended for people who haven't worn one before.
+
+Jackets are outerwear, the last layer of clothing to be put on before you go outside, but you don't always need to wear a jacket outside. You might need to wear a jacket if it's cold or rainy outside, or if you could get sunburned. There are some circumstances where you have to wear one even when the weather doesn't require one because it is required for modesty or to meet social expectations.
+
+This is about jackets with a similar basic shape: something that covers the body and closes in the front with a zipper, plus two tubes of fabric for the arms. The jacket will probably extend to the waist, or it may be longer. There is an extra part of the jacket that can be used to protect the wearer's head while leaving the face exposed.
+
+The part of the jacket that covers an arm is called a sleeve. If the end of the sleeve that is nearest the hand when the jacket is on is different than the rest of the sleeve, that portion is called a cuff. Not all jackets have cuffs. (do we need to talk about cuffs?) The part of the jacket that goes around the wearer's neck is called the collar. It may have parts that stick up or fold over, or it may be plain. The part of the jacket that covers the head is called the hood.
+
+The two commonest kinds of jacket fastenings are buttons, usually round, each of which goes into a slit called a buttonhole, and zippers, which consist of two metal or plastic tracks that connect with each other when a zipper pull is pulled along them and have to be connected at the bottom so that the slider goes along both tracks. These instructions cover jackets with zippers.
+
+=== Putting on a jacket
+
+When you have all of the other clothing you plan to wear out of the house, pick up a zippered jacket that fits you and is clean.
+
+. Hold the jacket so that the fastener is facing you and the collar is at the top.
+. Using your left hand, grab the side of the neck that is on the left as you hold the jacket in front of you. You should be able to see the entrance to the arm on that side inside the body of the jacket.
+. Put your right arm into the sleeve entrance.
+. Pull the jacket over your right arm until your hand comes out the end of the sleeve.
+
+Let go of the jacket with your left hand.
+
+* Using your right hand, reach across the front of your body and over your left shoulder.
+* Grab the neck on that side and hold it above your left shoulder.
+* Reaching slightly behind you with your left arm, put your left hand into the left armhole inside the jacket.
+
+Pull the jacket over your left arm until that hand comes out of the end of the arm.
+
+_ran out of time_
+
+link:./editing-exercise.html[Back to the editing exercise.]
+
+'''

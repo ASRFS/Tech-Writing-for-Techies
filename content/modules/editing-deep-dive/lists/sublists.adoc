@@ -1,0 +1,52 @@
+= Grouping list items
+:fragment:
+:imagesdir: ../images
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+
+There's a limit to human attention. Your readers can only take in so much information before they stop _reading_ and start just _looking_. The classic theory is that you can take in between 5 and 9 equivalent items (7 &plusmn; 2, also known as https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two[Miller's Number]). Although human memory is actually more complicated, lists longer than about 7 items are less effective than shorter ones.
+
+However, this memory limit is recursive. Readers can understand a certain number of sublists, each with a certain number of elements. In other words, you can get more information into your reader's head if you break it into chunks.
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+| *Bullet lists: _categories and items_*
+| *Numbered lists: _alternatives or sub-steps_*
+
+a|Minecraft flowers come in many colors:
+
+* *Red*
+** Roses
+** Poppies
+* *Yellow*
+** Daffodils
+** Sunflowers
+* ...
+a|How to tame a dragon:
+
+. Catch the dragon. There are several ways to do this:
+* Set a trap in its den.
+* Lure it with food.
+* Offer it gold.
+. Gradually build up trust:
+.. Distract it with food.
+.. Treat its injuries while it eats.
+. ...
+|===
+====
+// end::slide[]
+
+// ---- MORE EXPLANATION ----
+* Bullet lists can be broken up into *sub-categories*. Which sub-category you use (Minecraft flowers by color? by biome?) depends on what you're writing, who your audience is, and what you want them to focus on.
+* Instructions can be broken up into *sub-processes*, which are also numbered lists. This can help readers by giving them intermediate goals.
+* Instruction lists can also have bulleted sublists with *alternative methods* of performing the step.
+
+'''
+
+// end::html[]

@@ -1,0 +1,28 @@
+= Write neutrally
+:fragment:
+:imagesdir: ../images
+
+
+// tag::slide[]
+// tag::html[]
+
+[.ornamental]
+image::gender-neutral-symbol.png["Gender neutral symbol",500,align="center"]
+
+// end::slide[]
+
+There are things you know, such as your audience's role and their goals or the documentation topic. But there are also a lot of things you _don't_ know, don't need to know, and shouldn't assume:
+
+What culture someone's from:: We work in increasingly multicultural settings. Reflect that in the examples you use. If you're using names, pick ones from multiple genders, cultures, and places. Don't assume that your readers share the dominant religion or culture of the place you live.
+What gender someone is:: Not all engineers are male. Not all of _any_ profession is any given gender. So don't use gender-specific pronouns when you talk about people. What do you do instead?
+
+* Use gender-neutral vocabulary: _chair_ rather than _chairman_, _actor_ in place of _actress_, _work hours_ instead of _man hours_.
+* Instead of _he_, _his_, and _him_, *either*:
+** Use _they_, _their_, and _them_, with the verb (action word) that goes with it. So _When an engineer sees a problem, he solves it._ becomes _When an engineer sees a problem, they solve it._ It's called the *singular they*, and it's actually been in use in English for centuries.
+** Move the whole thing into the plural: _When engineers see problems, they solve them_.
+
+(Don't use _he or she_, _he/she_, or _s/he_. They're distracting.)
+
+'''
+
+// end::html[]

@@ -1,0 +1,28 @@
+= Uncountable
+:fragment:
+:imagesdir: ../images
+
+
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::uncountable.png["Composite image of a drawing of a lightbulb, a section of the Periodic Table of the Elements, a photo of a body of water, and a photo of a pile of grain",,400,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+Not all nouns are countable. _Uncountable_ nouns range from abstractions to collections of things can't be divided into easily-counted elements. The classes of thing blur into each other:
+
+* Ideas and concepts &larr; *thought*
+* Elements and substances &larr; *silver*
+* Liquids and gases &larr; *water*
+* Solids whose components are too small to count, so they're treated like liquids &larr; *wheat*
+
+To get historical, these things are grouped together because science (the realm of elements, liquids, and gases) comes from natural philosophy (the realm of ideas and concepts). It all still blends together, and grammar reflects that.
+
+'''
+
+// end::html[]

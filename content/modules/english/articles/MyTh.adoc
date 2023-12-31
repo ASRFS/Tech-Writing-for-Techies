@@ -1,0 +1,25 @@
+= MyTh
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE ----
+// tag::slide[]
+
+image::gollumfinger.png["Picture of Gollum from the Lord of the Rings, pointing at the viewer",]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+[.ornamental]
+image::gollumfinger-sm.png["Picture of Gollum from the Lord of the Rings, pointing at the viewer",]
+
+There are some words that, when they come before a noun, take the place of any articles. The two main classes of them are:
+
+* *Possessives*: Words that indicate who the thing belongs to. _**My** Precious_, _your ring_, _Bilbo's sword_, etc.
+* *Demonstratives*: _**Th**is gold_, _that diamond_, _these rubies_. This makes sense, as [.blue]#*the*# is descended from demonstratives.
+
+'''
+
+// end::html[]

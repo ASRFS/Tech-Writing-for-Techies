@@ -1,0 +1,28 @@
+= Getting unstuck
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+[.ornamental]
+image::stuck-in-the-mud.png["Image of an elephant stuck in the mud.",600,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+There's a technical term for getting stuck writing: writer's block. What can you do if you're blocked?
+
+Work on a different section of your document:: Many of us learned this one in exam preparation: if you're stuck on one question, go on to another and come back later.
+Change your writing method:: Even if you never, ever, ever use a different method than your preferred one, what have you got to lose? If free writing is letting you down, do a little outlining or make a mind map.
+Change your medium:: Try explaining what you're trying to say out loud. Grab a pen and some paper and try handwriting it.
+Try writing in another language:: (if you know one, obviously). Whether you're switching to your native language or away from it, shifting languages changes how you think.
+Change your location:: If you're working from home, go sit in a different room. If you're in the office, see if there's a conference room free. Moving to new surroundings can give you permission to start afresh.
+Take a break and move:: Get up and walk around. Go outside for a few minutes. Grab a cup of the beverage of your choice.
+
+All of these strategies do the same thing: they break a pattern that's no longer working. If your relationship with the work is toxic, break that relationship and form a new one.
+
+And remember: *if your writing is terrible, that doesn't mean you're doing it wrong.* You can fix it at the editing stage.
+
+'''
+
+// end::html[]

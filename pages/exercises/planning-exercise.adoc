@@ -1,0 +1,34 @@
+= Planning exercise
+// general attributes
+include::../utilities/exercise-attribute-settings.adoc[]
+
+[cols="2",frame=none,grid=none]
+
+|===
+a|image::jacket.png["Line drawing of a suit jacket",50%,,align="right"]
+a|image::jacket2.png["Line drawing of a zip-up jacket",50%,,align="left"]
+|===
+
+Plan how you would write instructions on _putting on a jacket_ for someone who doesn't already know how to do it, such as a small child (who can somehow already read), someone from a culture that doesn't have jackets, or even an alien (as long as it's roughly human-shaped).
+
+Some things to consider in planning:
+
+== The reader
+
+* What is the reader's goal?
+* What does the reader know about jackets?
+* What does the reader _not_ know about jackets? What of that will they need to know to put one on?
+* What mental models do you use when you talk about jackets? Is your reader likely to share those models?
+
+== The document
+
+* What is the purpose of this document?
+* What scope limitations might there be on this topic?
+* What is the reader's starting point?
+* What is the reader's end point? When are they "done"?
+* Are there other documents you might refer them to?
+* Is there specialized vocabulary you want to use in this document?
+
+link:./sa-planning.html[Click for a sample answer]
+
+'''

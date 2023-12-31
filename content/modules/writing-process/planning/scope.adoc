@@ -1,0 +1,39 @@
+= Scope
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::slide[]
+
+[cols="2",frame=none,grid=none]
+|===
+a|_What you want to write_
+
+image::allabout.png["Book entitled ALL ABOUT FROGS.",,300,align="right"]
+a|_What your readers need_
+
+image::everythingknow.png["Book entitled EVERYTHING YOU NEED TO KNOW ABOUT FROGS.",,300,align="left"]
+|===
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+You have to choose the _scope_ of your documentation. How much information should you put in there?
+
+The rule is to *only include information that supports your reader's goals.* The challenge is to know what that means for your documentation.
+
+You can't just shrug and put everything in just to be safe. Otherwise your document will be as thick as the New York phone book. This creates two problems:
+
+* Your readers will have trouble finding what they need.
+* You've just created a pile of technical debt, because everything you wrote has to be maintained.
+
+But don't include too little:
+
+* If there are gaps in what you've written, some of your readers will find themselves without any help.
+* Your document should be a coherent whole, rather than a collection of links the reader has to piece together.
+
+Trim your document down to _what your readers need to know_. The precise "cut here" line depends on the document, but don't skip things like mental models and troubleshooting for when things go wrong.
+
+'''
+// end::html[]

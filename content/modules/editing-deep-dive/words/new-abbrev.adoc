@@ -1,0 +1,53 @@
+= New abbreviations
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+====
+Requests from [.red]#*S.H.I.E.L.D*# should be given the highest priority. The head of the [.red]#*Division*# has Top Secret ULTRA access.
+====
+
+// ---- SLIDE 2 ----
+=== New abbreviations
+// end::slide[]
+
+// tag::html[]
+// ---- EXPLANATION ----
+
+
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+Requests from [.red]#*S.H.I.E.L.D*# should be given the highest priority. The head of the [.red]#*Division*# has Top Secret ULTRA access.
+====
+// end::slide[]
+// ---- MORE EXPLANATION ----
+*THE PROBLEM*
+
+Abbreviations have the same problem as technical terms: readers may not know what they mean. They can also can *overloaded*, meaning that the same acronym or initialism can mean more than one thing. Does _FTP_ mean _file transfer protocol_ or _free-to-play_?
+
+*THE SOLUTION*
+
+Write out the entire term on first use. Then put the abbreviation in parentheses immediately after it. Afterwards, use the abbreviation consistently.
+
+// ---- EVEN MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+Requests from the [.blue]#*Strategic Homeland Intervention, Enforcement and Logistics Division (S.H.I.E.L.D)*# should be given the highest priority. The head of [.blue]#*S.H.I.E.L.D*# has Top Secret ULTRA access.
+====
+// end::slide[]
+
+There are several different types of abbreviation, but they should all be treated the same way.
+
+* *acronyms*, where you say the first letters of the words as though they were a word (_NASA_).
+* *initialisms*, where you say the names of the letters (_URL_).
+* *portmanteaux*, made up of parts of different words stuck together (_turducken_).
+
+
+NOTE: Your link:./00-01-key-concepts.html#_style_guides[style guide] may have rules for how you capitalize and punctuate acronyms and initialisms (for example, all capital letters but no periods in between). If the acronym or initialism has an official style (as S.H.I.E.L.D. does), then use that even if it clashes with the style guide.
+
+'''
+// end::html[]

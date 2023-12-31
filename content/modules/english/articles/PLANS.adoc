@@ -1,0 +1,48 @@
+= PLANS
+:fragment:
+:imagesdir: ../images
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+// ---- SLIDE ----
+// tag::slide[]
+
+[.ornamental]
+image::plans.png["The word PLANS in an architectural font",align="center"]
+
+// end::slide[]
+
+There are a lot of categories of noun that simply don't take articles. Some of them are things that English treats like abstract concepts. And some of them are just language being weird and picky.
+
+[cols="1,3,10"]
+|===
+
+| *P*
+| Places people live
+a| Countries, states, provinces, cities, streets. +
+*Not*: Geographical features, which are _complicated_ +
+*Except* when [.blue]#*the*# is part of the official name: The Hague, The United States of America, The Netherlands.
+
+| *L*
+| Languages
+| English treats these like abstract concepts.
+
+| *A*
+| Academic subjects
+| English treats these as abstract concepts.
+
+| *N*
+| Names and nicknames
+| Unless [.blue]#*the*# is part of the name: Captain America, but The Hulk.
+
+| *S*
+| Sports
+| English treats these as abstract concepts.
+|===
+
+There are more exceptions than these. You can https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html[find more] https://english.lingolia.com/en/grammar/articles[information] with searches such as "articles grammar".
+
+'''
+
+// end::html[]

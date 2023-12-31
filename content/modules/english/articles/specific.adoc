@@ -1,0 +1,29 @@
+= Specificity
+:fragment:
+:imagesdir: ../images
+
+
+// ---- SLIDE ----
+// tag::slide[]
+
+// full flowchart image
+image::specific-v.png["Flowchart, highlighting 'Specific?'.",300,align="center"]
+
+// end::slide[]
+
+// ---- EXPLANATION ----
+// tag::html[]
+
+// cropped flowchart image
+[.ornamental]
+image::specific-v-sm.png["Flowchart, highlighting 'Specific?'.",300,align="center"]
+
+The first test is specificity. Something is _specific_ when the audience knows which one you're talking about. To put it another way, _can the reader point to it?_ If they can, and if it doesn't fall into the exceptions at the top of the flowchart, you can use [.blue]#*the*#.
+
+OK, but you're not a mind reader! How do you know what your audience knows?
+
+Like everything in language, specificity is a shared understanding between the writer and the reader. You can use a few tests to determine whether your reader should be able to point to what you're writing about.
+
+'''
+
+// end::html[]

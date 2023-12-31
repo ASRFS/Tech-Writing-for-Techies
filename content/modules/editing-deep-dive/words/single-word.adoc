@@ -1,0 +1,51 @@
+= One meaning, one word
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+When interrogating suspects who may have breached the Matrix, bring two [.red]#*folders*# into the room. One [.red]#*file*# should be full and the other nearly empty.
+====
+
+// ---- SLIDE 2 ----
+=== One meaning, one word
+// ---- EXPLANATION ----
+// tag::html[]
+//end::slide[]
+
+The 1:1 relationship goes the other way as well. *Each concept should be referred to by only one word.* Unlike in other kinds of writing, varying your word choice isn't interesting; it's link:./00-01-key-concepts.html#_cognitive_load[cognitive load].
+
+// tag::slide[]
+// ---- MORE OF SLIDE 2 ----
+====
+When interrogating suspects who may have breached the Matrix, bring two [.red]#*folders*# into the room. One [.red]#*file*# should be full and the other nearly empty.
+====
+// end::slide[]
+// ---- MORE EXPLANATION ----
+*THE PROBLEM*
+
+[.ornamental]
+image::file.png["Image of a file folder"]
+
+The sentences above mention a *folder* and a *file*. But both words refer to the same thing: _a piece of stiff brown paper folded in half, into which you put other pieces of paper_.
+
+If you use two words, some of your readers will think you mean two things, and start trying to find a distinction that isn't there. Picture your reader staring at a stationery cupboard, looking for something that can be described as a *file* but isn't what they already know is a *folder*.
+
+*THE SOLUTION*
+
+. Choose one word to use for each idea or concept. In this case, *folder*.
+. Write this down on your word list.
+. Apply it throughout the document.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+When interrogating suspects who may have breached the Matrix, bring two [.blue]#*folders*# into the room. One [.blue]#*folder*# should be full and the other nearly empty.
+====
+// end::slide[]
+
+NOTE: When you're deciding which concepts are different enough to need their own words, think about the reader. If reader won't see a difference, use the same word. So if a reader doesn't need to know what tree is an oak and what is a pine, call them all trees.
+
+'''
+// end::html[]

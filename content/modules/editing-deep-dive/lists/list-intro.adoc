@@ -1,0 +1,59 @@
+= Put shared information in the introduction
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a| Vor noblemen do certain things when they reach adulthood:
+
+* [.red]#*Must*# serve in the military.
+* [.red]#*Have to*# marry another Vor.
+* [.red]#*Are required to*# swear fealty to the Emperor.
+
+|
+|===
+====
+// ---- SLIDE 2 ----
+=== Put shared information in the introduction
+
+// tag::html[]
+
+====
+[cols="2",frame=none,grid=none]
+|===
+a| Vor noblemen do certain things when they reach adulthood:
+
+* [.red]#*Must*# serve in the military.
+* [.red]#*Have to*# marry another Vor.
+* [.red]#*Are required to*# swear fealty to the Emperor.
+
+a| Vor noblemen [.blue]#*must*# do certain things when they reach adulthood:
+
+* Serve in the military.
+* Marry another Vor.
+* Swear fealty to the Emperor.
+
+|===
+====
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+Lists do two things in technical writing:
+
+* They explicitly set out a collection of similar things.
+* They implicitly draw attention to the differences between those things.
+
+In other words, every item on a list shares something with the other items (or it wouldn't be in the list) and has its own distinct identity (or it would be a duplicate).
+
+To make the content of each item as distinct as possible, move anything that all the items have in common to the introductory sentence. Even though the items in the first list are phrased a little differntly, you can see that they're about things that Vor nobles _must_ do. Moving that "must" into the introduction allows the reader to see each element as different.
+
+NOTE: This rule is about the content of the introduction, not its formatting or grammar. Some style guides require that the list introduction be a sentence. Others don't express a preference.
+
+'''
+
+// end::html[]

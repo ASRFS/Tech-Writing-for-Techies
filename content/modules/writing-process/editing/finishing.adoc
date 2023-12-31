@@ -1,0 +1,24 @@
+= Finishing
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::stop.png["stop sign",400,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+When are you done with the editing process?
+
+Unfortunately, editing is like testing: you never finish. You just run out of time and stop.
+
+If time is limited, you can stretch the testing/editing analogy further by using _risk-based editing_. Focus on the areas where there is a high *probability* of getting things wrong, or where mistakes would have a high *impact*.
+
+In any case, remember that whatever editing you _do_ manage to do improves the final product.
+
+'''
+
+// end::html[]

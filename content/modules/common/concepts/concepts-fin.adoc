@@ -1,0 +1,7 @@
+= Fin
+:fragment:
+:imagesdir: ../images
+
+// tag::slide[]
+image::fish11.png["Line drawing of a fish",500,align="center"]
+// end::slide[]

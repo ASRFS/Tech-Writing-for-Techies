@@ -1,0 +1,57 @@
+= One word, one meaning
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE 1 ----
+// tag::slide[]
+====
+We [.red]#*replaced*# the hyperdrive coil with a better model. One of the magnetic bolts in the new coil was defective, so we had to [.red]#*replace*# it.
+====
+
+// ---- SLIDE 2 ----
+=== One word, one meaning
+
+// ---- EXPLANATION ----
+// tag::html[]
+//end::slide[]
+
+The words you use should have a 1:1 relationship with the concepts they represent. This means that *every word should be used to mean only one thing*. If you want to talk about a different thing (even a subtly different one), use a different word.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+We [.red]#*replaced*# the hyperdrive coil with a better model. One of the magnetic bolts in the new coil was defective, so we had to [.red]#*replace*# it.
+====
+// end::slide[]
+
+// ---- MORE EXPLANATION ----
+*THE PROBLEM*
+
+In the example above, *replace* is used to mean two things:
+
+* Take something out and put a better version in.
+* Take something broken out and put something in that's the same version, but not broken.
+
+If you've been use the word to mean both things, when you tell your reader to _replace_ something, they won't know which version of the thing to use.
+
+*THE SOLUTION*
+
+. Choose one meaning to associate with the original word: _Take something broken out and put something in that's the same, but not broken._
+. Find another word for the other meaning. In this case, you can use *upgrade* for _take something out and put a better version in._ If you don't know any more words, try a thesaurus^1^.
+. Write these decisions down on your word list.
+. Apply them throughout the document.
+
+// ---- MORE OF SLIDE 2 ----
+// tag::slide[]
+====
+We [.blue]#*upgraded*# the hyperdrive coil. One of the magnetic bolts in the new coil was defective, so we had to [.blue]#*replace*# it.
+====
+// end::slide[]
+
+CAUTION: Watch out for words that are are spelled the same but sound different. If you _record_ things in a database, maybe they should be _entries_ rather than _records_.
+
+[.small]#1. A website where you can enter a word and find other words that mean the same thing.#
+
+'''
+
+// end::html[]

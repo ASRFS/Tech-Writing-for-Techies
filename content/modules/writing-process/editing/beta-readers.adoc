@@ -1,0 +1,30 @@
+= Getting help
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::assemble.gif[align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+
+No matter how hard you try, you're still somewhat connected to what you've written. This means that you're going to miss things as you edit. So once you've done your best, it's time to get outside help.
+
+Your ideal beta reader is:
+
+* Unfamiliar with the subject matter.
+* Honest enough to tell you where they've found problems.
+* Kind enough not to make you feel terrible while reporting those problems.
+
+Although many developers think of beta reading as being like code review, it's more like beta testing. Your reader is testing your writing, seeing whether it does what it's supposed to do (take someone from a state of ignorance to a state of understanding).
+
+Like other beta testers, beta readers are best at reporting where and how things went wrong for them. They don't always have the "development" (writing) skill to suggest good solutions. Take that part of their feedback thoughtfully.
+
+NOTE: It's not fair to give your beta reader something that's too rough, or that's going to change too much. Make sure you've done as much as you can yourself before getting them involved.
+
+'''
+// end::html[]

@@ -1,0 +1,21 @@
+= Fake it till you make it
+:fragment:
+:imagesdir: ../images
+
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::article.png["Flowchart for using the, a, an, and none of them at all in English.",300,align="center"]
+
+// end::slide[]
+
+Instead of the complex interplay of subtle rules, this lesson uses a flowchart to guide you to the appropriate article: _the_, _a_, _an_, or nothing at all. The text that follows discusses each decision point in turn.
+
+This is an imperfect solution, but it's more usable than an instinct that you don't have or rules you can't understand.
+
+Note that although *MyTh? PLANS?* is at the top, the discussion of that decision point comes last. These are exceptions to the rules, and they'll make more sense once you know the rules themselves.
+
+'''
+// end::html[]
+

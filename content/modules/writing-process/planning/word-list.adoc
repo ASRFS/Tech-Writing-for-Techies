@@ -1,0 +1,23 @@
+= Word list
+:fragment:
+:imagesdir: ../images
+
+// ---- SLIDE & IMAGE ----
+// tag::html[]
+// tag::slide[]
+
+[.ornamental]
+image::list.png["Image of Santa Claus reading a long list.",600,align="center"]
+// end::slide[]
+
+// ---- EXPLANATION ----
+This is something you should make for yourself. You'll probably add to it as you write and edit your documentation.
+
+The words you use in your writing should have a 1:1 relationship with the ideas they represent. (This will come up later). Your word list is how you keep track of what words you're using and what exactly they mean.
+
+Decide which words you're going to use and what they will mean (and how you're going to capitalize, punctuate, and spell them) and note them down. If your team does this often, consider having a team word list somewhere. Also check the spelling, capitalization, and punctuation with the word list in your organization's link:./00-01-key-concepts.html#_style_guides[style guide].
+
+Bonus: if your documentation will need a glossary, you've started that too!
+
+'''
+// end::html[]

@@ -1,0 +1,107 @@
+= 03.02 Articles
+// general attributes
+include::./utilities/attribute-settings.adoc[]
+
+// attributes for navigation
+ifeval::["{ctag}" == "html"]
+:previous: link:03-01-english-errors.html[Common English errors]
+:parent: link:00-00-course-overview.html[Course overview]
+:next:
+endif::[]
+
+// Navigation table
+ifeval::["{ctag}" != "slide" ]
+include::./utilities/navigation-table.adoc[]
+
+'''
+endif::[]
+
+// First slide image
+ifeval::["{ctag}" == "slide"]
+== !
+image::letterlogo.png["Logo of a pointer cursor being drawn by a fountain pen",500,align="center"]
+
+== Articles
+image::pointing-shakespeare.png["The 'Desperate Housewives' pointing meme with Shakespeare's face.",,400,align="center"]
+
+endif::[]
+
+== What and why?
+include::../content/modules/english/articles/what-why.adoc[tag={ctag}]
+
+== A bit of history
+include::../content/modules/english/articles/history.adoc[tag={ctag}]
+
+=== Definite: _the_
+include::../content/modules/english/articles/def.adoc[tag={ctag}]
+
+=== Indefinite: _a_ and _an_
+include::../content/modules/english/articles/indef.adoc[tag={ctag}]
+
+== Fake it till you make it
+include::../content/modules/english/articles/fake-it.adoc[tag={ctag}]
+
+== Specific?
+include::../content/modules/english/articles/specific.adoc[tag={ctag}]
+
+=== There's only one
+include::../content/modules/english/articles/only-one.adoc[tag={ctag}]
+
+=== There are many, but this is mine
+include::../content/modules/english/articles/one-of-many.adoc[tag={ctag}]
+
+=== It's a specific group
+include::../content/modules/english/articles/specific-group.adoc[tag={ctag}]
+
+=== Specific: _the_
+include::../content/modules/english/articles/specific-the.adoc[tag={ctag}]
+
+=== Non-specific
+include::../content/modules/english/articles/non-specific.adoc[tag={ctag}]
+
+== Countable?
+include::../content/modules/english/articles/countable-intro.adoc[tag={ctag}]
+
+=== Countable
+include::../content/modules/english/articles/countable.adoc[tag={ctag}]
+
+=== Uncountable
+include::../content/modules/english/articles/uncountable.adoc[tag={ctag}]
+
+=== Non-specific, uncountable: &mdash;
+include::../content/modules/english/articles/uncountable--.adoc[tag={ctag}]
+
+== Singular?
+include::../content/modules/english/articles/singular.adoc[tag={ctag}]
+
+=== Non-specific, plural: &mdash;
+include::../content/modules/english/articles/plural.adoc[tag={ctag}]
+
+== Vowel sound?
+include::../content/modules/english/articles/vowels.adoc[tag={ctag}]
+
+=== Vowel rules
+include::../content/modules/english/articles/vowel-rules.adoc[tag={ctag}]
+
+== Exceptions
+include::../content/modules/english/articles/exceptions.adoc[tag={ctag}]
+
+=== MyTh?
+include::../content/modules/english/articles/MyTh.adoc[tag={ctag}]
+
+=== PLANS?
+include::../content/modules/english/articles/PLANS.adoc[tag={ctag}]
+
+=== Exceptions: &mdash;
+include::../content/modules/english/articles/exceptions--.adoc[tag={ctag}]
+
+ifeval::["{ctag}" != "slide" ]
+// Navigation
+include::./utilities/navigation-table.adoc[]
+endif::[]
+
+ifeval::["{ctag}" == "slide" ]
+// End slide - not used in the self-study pages.
+== Fin
+include::../content/modules/english/articles/articles-fin.adoc[tag={ctag}]
+endif::[]
