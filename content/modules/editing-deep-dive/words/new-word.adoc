@@ -25,7 +25,7 @@ When they meet a term they don't know, readers have to guess its meaning from co
 
 . Define the term immediately after the first time you use it.
 . If you have a glossary, use the same definition there.
-. Use your word list (surprise!) to keep track of this
+. Use your word list (surprise!) to keep track of this.
 
 The real trick, of course, is figuring out which words your readers are likely to understand. You should think about this from the link:planning.html[planning] stage onward.
 

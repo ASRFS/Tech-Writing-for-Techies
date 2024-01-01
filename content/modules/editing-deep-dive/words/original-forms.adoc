@@ -23,7 +23,7 @@ Always [.red]#*neuralize*# civilians if they've witnessed an alien event.
 
 If you introduce a term in one form, then use it in another, the reader has to do some mental work to follow the transition. Sometimes it's a small transformation and not much work. Other times, your reader can barely figure out what you mean. But it's all cognitive load.
 
-It also affects search results and adds a maintenance problem. If your company switches from the Neuralizer to the Brain-E-Race, updating your documentation is harder and more error-prone..
+It also affects search results and adds a maintenance problem. If your company switches from the Neuralizer to the Brain-E-Race, updating your documentation is harder and more error-prone.
 
 *THE SOLUTION*
 
