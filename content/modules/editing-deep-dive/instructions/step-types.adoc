@@ -32,7 +32,7 @@ There are two important things to know about sandworms:
 * If they catch you, they will eat you.
 * They are attracted to rhythmic noises.
 
-So your reader _absolutely must_ walk with an uneven rhythm. Otherwise their footsteps will attract a worm. _If_ there are rocks nearby, they should go toward them, because sandworms an't get into rock formations.
+So your reader _absolutely must_ walk with an uneven rhythm. Otherwise their footsteps will attract a worm. _If_ there are rocks nearby, they should go toward them, because sandworms can't get into rock formations.
 
 Should they activate a thumper, which is a device that gives out a rhythmic thumping noise after a short delay? Well, that's complicated.
 
