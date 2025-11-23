@@ -2,9 +2,7 @@
 
 A multi-platform course to teach the basics of technical writing to non-writers in software development environments. The course is designed with the needs of non-native speakers of English in mind. It also _tries_ not to be boring. (Results may vary.)
 
-See the [course syllabus](Syllabus.md) for what's in there.
-
-To access the course materials, start [here](./output/html/00-00-course-overview.html) and follow the links from the table at the bottom of the page.
+You can access the course on GitHub Pages starting at the [course overview](https://asrfs.github.io/Tech-Writing-for-Techies/output/html/00-00-course-overview.html).
 
 The content is created and maintained in AsciiDoc format, structured so that it can be rendered into html explanatory materials, or into HTML5 slides using reveal.js. The slides can then be used for video or in-person presentations of the detailed content (in which case the html files are speaker notes).
 
