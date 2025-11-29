@@ -38,7 +38,7 @@ After the Burn, the Federation had only twelve [.blue]#*starships*#.
 ====
 // end::slide[]
 
-NOTE: An example is the definition of the term *thesaurus* in the section on <<_one_word_one_meaning>>. THe footnote defines it as _A website where you can enter a word and find other words that mean the same thing_. There's a techncial term for _a word that means the same thing as another word_. It's a *synonym*. But using that word would have meant teaching it to readers, although it's never used again in the course. That's wasted energy. Cognitive load.
+NOTE: An example is the definition of the term *thesaurus* in the section on <<_one_word_one_meaning>>. The footnote defines it as _A website where you can enter a word and find other words that mean the same thing_. There's a techncial term for _a word that means the same thing as another word_. It's a *synonym*. But using that word would have meant teaching it to readers, although it's never used again in the course. That's wasted energy. Cognitive load.
 
 '''
 

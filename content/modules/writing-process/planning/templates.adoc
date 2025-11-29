@@ -14,7 +14,7 @@ image::frame.png["Image of the internal metal frame of a building under construc
 Documentation needs good, consistent structure.
 
 * A *good* structure reduces the reader's cognitive load by introducing the right information at the right times.
-* A *consistent* structure teaches the reader how to find everything, then uses that knowledge on throughougt the documentation.
+* A *consistent* structure teaches the reader how to find everything, then uses that knowledge on throughout the documentation.
 
 If you're *updating an existing document*, make sure you work with the structure that's already there. Are you adding the information in the right place? Is it at the same level of detail as the other items that are described in the same section? You may need to add information in more than one place, with different levels of detail or different things being emphasized.
 
